@@ -1,0 +1,680 @@
+ Distance from Base (TBH),Address,Bikes Available,Latitude,Longitude,Station ID,Station Name,Station Plus-Codes,Station Status,Total Docks,Zipcode
+2.1,"Shedd Aquarium, 1200 S DuSable Lake Shore Dr., Chicago, IL",40,41.86722596,-87.61535539,3,Shedd Aquarium,86HJV98M%2BVV,Excess,55,60605
+2.6,"Burnham Harbor, 1559 S Lake Shore Dr, Chicago, IL",22,41.85741179,-87.61379153,4,Burnham Harbor,86HJV94P%2BXF,Excess,23,60605
+1.6,"E Harrison St & S State St, Chicago, IL",21,41.874053,-87.627716,5,State St & Harrison St,86HJV9FC%2BJW,Excess,23,60605
+2.9,"DuSable Harbor, 111 N Lake Shore Dr., Chicago, IL",9,41.886976,-87.612813,6,Dusable Harbor,86HJV9PP%2BQV,Deficit,39,60601
+3.1,"Divvy, Field Blvd & South Water St, Chicago, IL",18,41.88634906,-87.61751655,7,Field Blvd & South Water St,86HJV9PJ%2BGX,Excess,19,60601
+3.4,"S Archer Ave & S Leavitt St, Chicago, IL",1,41.82879202,-87.68060446,9,Leavitt St & Archer Ave,86HJR8H9%2BGQ,Deficit,15,60609
+9.2,"S Jeffery Blvd & E 71st St, Chicago, IL",2,41.76663824,-87.57645011,11,Jeffery Blvd & 71st St,86HJQC8F%2BMC,Deficit,11,60649
+9.5,"E 71st St & E South Shore Dr, Chicago, IL",8,41.76640946,-87.56568757,12,South Shore Dr & 71st St,86HJQC8M%2BHP,Sufficient Quantity,15,60649
+4.8,"W Diversey Pkwy & N Wilton Ave, Chicago, IL",12,41.932418,-87.652705,13,Wilton Ave & Diversey Pkwy,86HJW8JW%2BXW,Deficit,35,60614
+0.7,"W 18th St & S Morgan St, Chicago, IL",8,41.858086,-87.651073,14,Morgan St & 18th St,86HJV85X%2B6H,Sufficient Quantity,15,60608
+1,"W 18th St & S Racine Ave, Chicago, IL",5,41.858166,-87.656495,15,Racine Ave & 18th St,86HJV85V%2B7C,Deficit,15,60608
+3.4,"N Paulina St & W North Ave, Chicago, IL",9,41.90985465,-87.66993016,16,Paulina Ave & North Ave,86HJW85J%2BW2,Excess,15,60622
+3.6,"N Honore St & W Division St, Chicago, IL",6,41.903119,-87.673935,17,Honore St & Division St,86HJW83G%2B6C,Deficit,23,60622
+1.7,"W Washington St & N Upper Wacker Dr, Chicago, IL",5,41.88314336,-87.63724208,18,Wacker Dr & Washington St,86HJV9M7%2B74,Deficit,15,60606
+0.9,"S Throop St & W Taylor St, Chicago, IL",2,41.868968,-87.659141,19,Throop St & Taylor St,86HJV89R%2BH8,Deficit,15,60607
+4.2,"Divvy, Sheffield Ave & Kingsbury St, Chicago, IL",14,41.910522,-87.653106,20,Sheffield Ave & Kingsbury St,86HJW86W%2B6Q,Excess,15,60642
+1.2,"S Aberdeen St & Jackson Blvd, Chicago, IL",19,41.87772613,-87.65478743,21,Aberdeen St & Jackson Blvd,86HJV8HW%2B33,Excess,23,60607
+0.7,"S May St & W Taylor St, Chicago, IL",12,41.8694821,-87.6554864,22,May St & Taylor St,86HJV89V%2BQR,Excess,15,60607
+3.5,"N Orleans St & W Elm St, Chicago, IL",1,41.902924,-87.637715,23,Orleans St & Elm St,86HJW936%2B5W,Deficit,15,60610
+3.3,"E Grand Ave & N Fairbanks Ct, Chicago, IL",2,41.89184737,-87.6205802,24,Fairbanks Ct & Grand Ave,86HJV9RH%2BPQ,Deficit,15,60611
+3.7,"Michigan Ave & E Pearson St, Chicago, IL",23,41.89766,-87.62351,25,Michigan Ave & Pearson St,86HJV9XG%2B3H,Excess,23,60611
+3.2,"E Illinois St & N New St, Chicago, IL",29,41.89084704,-87.61861682,26,New St & Illinois St,86HJV9RJ%2B8H,Excess,31,60611
+3.1,"N Larrabee St, Chicago, IL",16,41.91021,-87.6435,27,Larrabee St & North Ave,86HJW964%2B3H,Excess,19,60610
+3.6,"W Menomonee St & N Larrabee St, Chicago, IL",1,41.91468,-87.64332,28,Larrabee St & Menomonee St,86HJW974%2BVM,Deficit,15,60614
+3,"N Noble St & N Milwaukee Ave, Chicago, IL",12,41.90068,-87.6626,29,Noble St & Milwaukee Ave,86HJW82P%2B7X,Excess,15,60642
+3.2,"W Augusta Blvd & Ashland Ave, Chicago, IL",8,41.899643,-87.6677,30,Ashland Ave & Augusta Blvd,86HJV8XJ%2BVW,Sufficient Quantity,15,60622
+2.3,"N Franklin St, Chicago, IL",8,41.89674697,-87.63566762,31,Franklin St & Chicago Ave,86HJV9W7%2BMP,Deficit,23,60654
+1.2,"W Congress Pkwy & S Racine Ave, Chicago, IL",15,41.87464,-87.65703,32,Racine Ave & Congress Pkwy,86HJV8FV%2BV5,Excess,19,60607
+1.7,"E Van Buren St & S State St, Chicago, IL",20,41.877181,-87.627844,33,State St & Van Buren St,86HJV9GC%2BVV,Excess,27,60605
+5.5,"N Cannon Dr & W Fullerton Ave, Chicago, IL",5,41.92675599,-87.63442879,34,Cannon Dr & Fullerton Ave,86HJW9G8%2BP6,Deficit,15,60614
+3.5,"E Grand Ave & N Streeter Dr, Chicago, IL",27,41.892278,-87.612043,35,Streeter Dr & Grand Ave,86HJV9RQ%2BW5,Sufficient Quantity,47,60611
+1.4,"Jackson Blvd & S Franklin St, Chicago, IL",26,41.87770796,-87.63532114,36,Franklin St & Jackson Blvd,86HJV9H7%2B3V,Excess,39,60606
+1.8,"S Dearborn St & W Adams St, Chicago, IL",4,41.87935636,-87.62979104,37,Dearborn St & Adams St,86HJV9HC%2BP3,Deficit,19,60604
+2.2,"N Clark St & W Lake St, Chicago, IL",0,41.88602083,-87.63087606,38,Clark St & Lake St,86HJV9P9%2BCJ,Deficit,27,60601
+2.2,"E Adams St & S Wabash Ave, Chicago, IL",16,41.87947235,-87.62568861,39,Wabash Ave & Adams St,86HJV9HF%2BQP,Excess,23,60604
+1.7,"W Adams St & S La Salle St, Chicago, IL",8,41.87934437,-87.63198522,40,LaSalle St & Adams St,86HJV9H9%2BP6,Sufficient Quantity,15,60604
+1.3,"S Federal St & W Polk St, Chicago, IL",0,41.87207763,-87.62954377,41,Federal St & Polk St,86HJV9CC%2BR5,Deficit,19,60605
+2,"S Wabash Ave & E Cermak Rd, Chicago, IL",2,41.852619,-87.626488,42,Wabash Ave & Cermak Rd,86HJV93F%2B2C,Deficit,11,60616
+2.4,"Michigan Ave & E Washington St, Chicago, IL",2,41.88398407,-87.62468398,43,Michigan Ave & Washington St,86HJV9MG%2BH4,Deficit,43,60602
+2.3,"E Randolph St & N State St, Chicago, IL",22,41.88462107,-87.62783423,44,State St & Randolph St,86HJV9MC%2BRV,Excess,23,60602
+1.8,"Michigan Ave & East Ida B. Wells Drive, Chicago, IL",5,41.876243,-87.624426,45,Michigan Ave & Ida B Wells Dr,86HJV9GG%2BF6,Deficit,15,60605
+3.4,"N Wells St & W Walton St, Chicago, IL",4,41.89993001,-87.63443007,46,Wells St & Walton St,86HJV9X8%2BX6,Deficit,19,60610
+2.8,"N State St & Kinzie St, Chicago, IL",23,41.88937547,-87.62707651,47,State St & Kinzie St,86HJV9QF%2BQ5,Excess,31,60654
+2.5,"N Kingsbury St & N Larrabee St, Chicago, IL",25,41.897764,-87.642884,48,Larrabee St & Kingsbury St,86HJV9X4%2B4R,Sufficient Quantity,43,60610
+1.9,"W Monroe St & S Dearborn St, Chicago, IL",6,41.88131982,-87.62952092,49,Dearborn St & Monroe St,86HJV9JC%2BG5,Deficit,39,60603
+1.7,"S Clark St & W Ida B. Wells Dr, Chicago, IL",8,41.87593267,-87.63058454,50,Clark St & Ida B Wells Dr,86HJV9G9%2B9Q,Deficit,35,60605
+2.3,"W Randolph St & N Clark St, Chicago, IL",43,41.88457623,-87.63188991,51,Clark St & Randolph St,86HJV9M9%2BR6,Excess,43,60601
+2.5,"Michigan Ave & E Lake St, Chicago, IL",3,41.886024,-87.624117,52,Michigan Ave & Lake St,86HJV9PG%2BC9,Deficit,35,60601
+3.1,"N Wells St & W Huron St, Chicago, IL",0,41.894722,-87.634362,53,Wells St & Huron St,86HJV9V8%2BV7,Deficit,27,60654
+2.5,"N Ogden Ave & W Chicago Ave, Chicago, IL",9,41.89636246,-87.65406127,54,Ogden Ave & Chicago Ave,86HJV8WW%2BG9,Sufficient Quantity,19,60642
+0.1,"Roosevelt Rd & S Halsted St, Chicago, IL",6,41.867324,-87.648625,55,Halsted St & Roosevelt Rd,86HJV982%2BWH,Deficit,23,60607
+1.9,"N Des Plaines St & W Kinzie St, Chicago, IL",20,41.88871604,-87.64444785,56,Desplaines St & Kinzie St,86HJV9Q4%2BF6,Excess,27,60654
+0.4,"Roosevelt Rd & S Clinton St, Chicago, IL",11,41.86711778,-87.64108796,57,Clinton St & Roosevelt Rd,86HJV985%2BRH,Excess,15,60607
+4.2,"N Elston Ave & W Cortland St, Chicago, IL",13,41.91643343,-87.66674638,58,Elston Ave & Cortland St,86HJW88M%2BH8,Sufficient Quantity,23,60642
+4.4,"W Cortland St & N Elston Ave, Chicago, IL",7,41.867227,-87.625961,59,Wabash Ave & Roosevelt Rd,86HJV98F%2BVJ,Deficit,23,60642
+4.7,"N Dayton St, Chicago, IL",4,41.91057804,-87.64942193,60,Dayton St & North Ave,86HJW962%2B66,Deficit,19,60614
+3.6,"N Wood St & N Milwaukee Ave, Chicago, IL",0,41.907655,-87.672552,61,Wood St & Milwaukee Ave,86HJW85G%2B3X,Deficit,19,60622
+2.4,"McCormick Place, 2301 S King Dr, Chicago, IL",1,41.85137517,-87.61883465,62,McCormick Place,86HJV92J%2BHF,Deficit,27,60616
+1.7,"N Clinton St & W Lake St, Chicago, IL",8,41.885637,-87.641823,66,Clinton St & Lake St,86HJV9P5%2B77,Deficit,23,60661
+4.2,"N Sheffield Ave & W Fullerton Ave, Chicago, IL",4,41.92560188,-87.65370804,67,Sheffield Ave & Fullerton Ave,86HJW8GW%2B6G,Deficit,27,60614
+1.1,"W Tilden St & S Clinton St, Chicago, IL",10,41.875885,-87.640795,68,Clinton St & Tilden St,86HJV9G5%2B9M,Sufficient Quantity,23,60607
+4.1,"W Pierce Ave & N Damen Ave, Chicago, IL",8,41.90939601,-87.67769193,69,Damen Ave & Pierce Ave,86HJW85C%2BQW,Deficit,23,60622
+1.6,"N Sangamon St & W Lake St, Chicago, IL",4,41.88577925,-87.65102461,71,Sangamon St & Lake St,86HJV8PX%2B8H,Deficit,23,60607
+1.7,"S Wabash Ave & E 16th St, Chicago, IL",36,41.860384,-87.625813,72,Wabash Ave & 16th St,86HJV96F%2B5M,Excess,39,60616
+1.3,"W Monroe St & S Jefferson St, Chicago, IL",8,41.88032963,-87.64274597,73,Jefferson St & Monroe St,86HJV9J4%2B4W,Deficit,19,60661
+3.2,"W Erie St & N Kingsbury St, Chicago, IL",13,41.89380806,-87.64169723,74,Kingsbury St & Erie St,86HJV9V5%2BG8,Sufficient Quantity,23,60654
+1.2,"S Canal St & Jackson Blvd, Chicago, IL",40,41.877245,-87.639366,75,Canal St & Jackson Blvd,86HJV9G6%2BV7,Excess,43,60606
+2.5,"E Monroe St & S DuSable Lake Shore Dr., Chicago, IL",0,41.880958,-87.616743,76,DuSable Lake Shore Dr & Monroe St,86HJV9JM%2B98,Deficit,39,60601
+1.6,"W Madison St & N Clinton St, Chicago, IL",26,41.882242,-87.641066,77,Clinton St & Madison St,86HJV9J5%2BVH,Excess,31,60606
+1.4,"S Aberdeen St & W Monroe St, Chicago, IL",6,41.880419,-87.655519,80,Aberdeen St & Monroe St,86HJV8JV%2B5Q,Deficit,19,60607
+2.1,"Richard J. Daley Center, 50 W Washington St, Chicago, IL",9,41.884241,-87.629634,81,Daley Center Plaza,86HJV9MC%2BM4,Sufficient Quantity,20,60602
+1.8,"W Grand Ave & N Milwaukee Ave, Chicago, IL",14,41.891578,-87.648384,84,Milwaukee Ave & Grand Ave,86HJV9R2%2BJJ,Excess,19,60642
+4,"Michigan Ave & E Oak St, Chicago, IL",22,41.90096039,-87.62377664,85,Michigan Ave & Oak St,86HJW92G%2B9F,Excess,23,60611
+3.1,"Eckhart (Bernard) Park, 1330 W Chicago Ave, Chicago, IL",0,41.89637337,-87.66098386,86,Eckhart Park,86HJV8WQ%2BGJ,Deficit,19,60642
+4.3,"N Racine Ave & W Fullerton Ave, Chicago, IL",18,41.92556258,-87.65840426,87,Racine Ave & Fullerton Ave,86HJW8GR%2B6J,Excess,19,60614
+1.8,"N Racine Ave & W Randolph St, Chicago, IL",18,41.884069,-87.656853,88,Racine Ave & Randolph St,86HJV8MV%2BJ7,Excess,19,60607
+1.4,"Financial Place & Ida B Wells Drive, Chicago, IL",5,41.87502363,-87.63309404,89,Financial Pl & Ida B Wells Dr,86HJV9G8%2B2Q,Deficit,31,60607
+2.3,"Millennium Park, 201 E Randolph St, Chicago, IL",19,41.8810317,-87.62408432,90,Millennium Park,86HJV9JG%2BC9,Deficit,47,60602
+1.5,"W Washington Blvd & N Clinton St, Chicago, IL",26,41.88338,-87.64117,91,Clinton St & Washington Blvd,86HJV9M5%2B9G,Excess,31,60661
+2.2,"N Carpenter St & W Huron St, Chicago, IL",6,41.894556,-87.653449,92,Carpenter St & Huron St,86HJV8VW%2BRJ,Deficit,19,60642
+4.4,"N Sheffield Ave & W Willow St, Chicago, IL",12,41.913688,-87.652855,93,Sheffield Ave & Willow St,86HJW87W%2BFV,Excess,15,60614
+5.6,"W Armitage Ave & N Clark St, Chicago, IL",13,41.918306,-87.636282,94,Clark St & Armitage Ave,86HJW997%2B8F,Sufficient Quantity,31,60614
+8.8,"S Stony Is Ave & E 64th St, Chicago, IL",5,41.778881,-87.586647,95,Stony Island Ave & 64th St,86HJQCH7%2BH8,Sufficient Quantity,11,60637
+1.6,"N Des Plaines St & W Randolph St, Chicago, IL",23,41.88461619,-87.64457059,96,Desplaines St & Randolph St,86HJV9M4%2BR5,Excess,23,60661
+2.4,"Field Museum, 1400 S Lake Shore Dr, Chicago, IL",44,41.865312,-87.617867,97,Field Museum,86HJV98J%2B4V,Excess,55,60605
+2,"N La Salle St & W Washington St, Chicago, IL",5,41.882664,-87.63253,98,LaSalle St & Washington St,86HJV9M8%2B3X,Deficit,15,60602
+3.6,"E Ohio St & N McClurg Ct, Chicago, IL",3,41.89259212,-87.61728913,99,McClurg Ct & Ohio St,86HJV9VM%2B23,Deficit,19,60611
+2.2,"W Merchandise Mart Plaza & N Orleans St, Chicago, IL",31,41.888243,-87.63639,100,Orleans St & Merchandise Mart Plaza,86HJV9Q7%2B7C,Excess,35,60654
+8.3,"63rd Street Beach, Chicago, IL",8,41.78091096,-87.57632375,101,63rd St Beach,86HJQCJF%2B9F,Sufficient Quantity,15,60649
+8.8,"S Stony Is Ave & E 67th St, Chicago, IL",10,41.7734585,-87.58533974,102,Stony Island Ave & 67th St,86HJQCF7%2B9V,Excess,11,60649
+0.7,"W Polk St & S Clinton St, Chicago, IL",11,41.87146652,-87.64094913,103,Clinton St & Polk St,86HJV9C5%2BHJ,Excess,15,60699
+3.6,"E Pearson St & N State St, Chicago, IL",25,41.897448,-87.628722,106,State St & Pearson St,86HJV9WC%2BXG,Excess,27,60610
+1.3,"Jackson Blvd & S Desplaines St, Chicago, IL",8,41.8781189,-87.6439476,107,Desplaines St & Jackson Blvd,86HJV9H4%2B6C,Deficit,27,60661
+0.5,"W Polk St & S Halsted St, Chicago, IL",14,41.87184,-87.64664,108,Halsted St & Polk St,86HJV9C3%2BP8,Excess,19,60607
+1,"900 W Harrison St, Chicago, IL",13,41.874754,-87.649807,109,900 W Harrison St,86HJV9F2%2BW3,Excess,19,60607
+3.3,"W Erie St & N Dearborn St, Chicago, IL",26,41.893992,-87.629318,110,Dearborn St & Erie St,86HJV9VC%2BH7,Excess,27,60654
+3,"W Huron St & N Sedgwick St, Chicago, IL",9,41.894666,-87.638437,111,Sedgwick St & Huron St,86HJV9V6%2BVJ,Deficit,27,60654
+1.3,"W Washington Blvd & N Green St, Chicago, IL",5,41.88318131,-87.64872462,112,Green St & Washington Blvd,86HJV9M2%2B7G,Sufficient Quantity,11,60607
+10,"W Argyle St & N Sheridan Rd, Chicago, IL",8,41.97328682,-87.65475959,113,Sheridan Rd & Argyle St,86HJX8FW%2B83,Sufficient Quantity,15,60640
+7.1,"N Sheffield Ave & W Waveland Ave, Chicago, IL",17,41.949399,-87.654529,114,Sheffield Ave & Waveland Ave,86HJW8XW%2BQ5,Excess,27,60613
+5,"N Sheffield Ave & W Wellington Ave, Chicago, IL",12,41.93625348,-87.6526621,115,Sheffield Ave & Wellington Ave,86HJW8PW%2BGW,Sufficient Quantity,23,60657
+5.2,"N Winnebago Ave & N Western Ave, Chicago, IL",13,41.91552,-87.687022,116,Western Ave & Winnebago Ave,86HJW887%2B65,Excess,15,60647
+6.6,"W Belmont Ave & N Wilton Ave, Chicago, IL",24,41.94023192,-87.65294373,117,Wilton Ave & Belmont Ave,86HJW8RW%2B3R,Excess,27,60657
+3.5,"N Sedgwick St, Chicago, IL",9,41.911386,-87.638677,118,Sedgwick St & North Ave,86HJW966%2BHG,Sufficient Quantity,19,60610
+2.4,"N Ashland Ave & W Lake St, Chicago, IL",9,41.88592,-87.66717,119,Ashland Ave & Lake St,86HJV8PM%2B94,Sufficient Quantity,19,60612
+1.6,"S Wentworth Ave & W Cermak Rd, Chicago, IL",4,41.85308456,-87.63193131,120,Wentworth Ave & Cermak Rd,86HJV939%2B66,Deficit,19,60616
+6.8,"E Hyde Park Blvd & S Blackstone Ave, Chicago, IL",9,41.802562,-87.590368,121,Blackstone Ave & Hyde Park Blvd,86HJRC35%2B2V,Sufficient Quantity,19,60615
+2.1,"W Congress Pkwy & W Ogden Ave, Chicago, IL",8,41.87501,-87.67328,122,Ogden Ave & Congress Pkwy,86HJV8GG%2B2M,Sufficient Quantity,15,60612
+5.7,"N California Ave & N Milwaukee Ave, Chicago, IL",10,41.922695,-87.697153,123,California Ave & Milwaukee Ave,86HJW8F3%2B34,Excess,15,60647
+2.4,"W Cullerton St & S Damen Ave, Chicago, IL",12,41.85496652,-87.67569959,124,Damen Ave & Cullerton St,86HJV83F%2BXP,Excess,15,60608
+3,"N Rush St & E Hubbard St, Chicago, IL",16,41.890173,-87.626185,125,Rush St & Hubbard St,86HJV9RF%2B3G,Excess,23,60611
+3.7,"W North Ave & N Clark St, Chicago, IL",12,41.911974,-87.631942,126,Clark St & North Ave,86HJW969%2BQ6,Excess,15,60610
+5.4,"N Lincoln Ave & W Fullerton Ave, Chicago, IL",12,41.92416103,-87.64638037,127,Lincoln Ave & Fullerton Ave,86HJW9F3%2BMC,Excess,15,60614
+3.8,"N Damen Ave & W Chicago Ave, Chicago, IL",15,41.895769,-87.67722,128,Damen Ave & Chicago Ave,86HJV8WF%2B84,Excess,19,60622
+1.2,"S Blue Island Ave & W 18th St, Chicago, IL",8,41.857556,-87.661535,129,Blue Island Ave & 18th St,86HJV85Q%2B29,Sufficient Quantity,15,60608
+3.8,"N Damen Ave & W Division St, Chicago, IL",3,41.903266,-87.678435,130,Damen Ave & Division St,86HJW83C%2B8J,Deficit,19,60622
+5.7,"N Lincoln Ave & W Belmont Ave, Chicago, IL",10,41.93953162,-87.67111436,131,Lincoln Ave & Belmont Ave (Temp),86HJW8QH%2BRH,Excess,15,60657
+1.8,"Divvy, Wentworth Ave & 24th St (Temp), Chicago, IL",15,41.85008369,-87.63214052,132,Wentworth Ave & 24th St (Temp),86HJV929%2B24,Excess,15,60616
+2.1,"N Kingsbury St & W Kinzie St, Chicago, IL",10,41.88917683,-87.63850577,133,Kingsbury St & Kinzie St,86HJV9Q6%2BMH,Deficit,31,60654
+1,"S Peoria St & Jackson Blvd, Chicago, IL",13,41.8776416,-87.64961779,134,Peoria St & Jackson Blvd,86HJV9H2%2B35,Excess,19,60607
+0.8,"W 21st St & S Halsted St, Chicago, IL",9,41.85377981,-87.64660299,135,Halsted St & 21st St,86HJV933%2BG9,Excess,11,60608
+0.7,"S Racine Ave & W 13th St, Chicago, IL",3,41.865054,-87.656959,136,Racine Ave & 13th St,86HJV88V%2B26,Deficit,15,60608
+0.5,"W 14th Pl & S Morgan St, Chicago, IL",3,41.862378,-87.651062,137,Morgan Ave & 14th Pl,86HJV86X%2BXH,Deficit,15,60608
+3.1,"N Clybourn Ave & W Division St, Chicago, IL",1,41.904613,-87.640552,138,Clybourn Ave & Division St,86HJW935%2BRQ,Deficit,15,60610
+3.4,"Dearborn Pkwy & Delaware Pl, Chicago, IL",7,41.898969,-87.629912,140,Dearborn Pkwy & Delaware Pl,86HJV9XC%2BH2,Deficit,19,60610
+4.6,"N Lincoln Ave & N Clark St, Chicago, IL",23,41.915689,-87.6346,141,Clark St & Lincoln Ave,86HJW988%2B75,Excess,23,60614
+3.6,"N McClurg Ct & E Erie St, Chicago, IL",18,41.894503,-87.617854,142,McClurg Ct & Erie St,86HJV9VJ%2BRV,Sufficient Quantity,31,60611
+5.2,"W Webster Ave & N Sedgwick St, Chicago, IL",0,41.922167,-87.638888,143,Sedgwick St & Webster Ave,86HJW9C6%2BVC,Deficit,15,60614
+4.1,"W Webster Ave & N Larrabee St, Chicago, IL",18,41.921822,-87.64414,144,Larrabee St & Webster Ave,86HJW9C4%2BP8,Excess,19,60614
+3.9,"N Mies Van Der Rohe Way & E Chestnut St, Chicago, IL",3,41.89858665,-87.62191523,145,Mies van der Rohe Way & Chestnut St,86HJV9XH%2BC6,Deficit,19,60611
+1.6,"Jackson Blvd & S Loomis St, Chicago, IL",2,41.877945,-87.662007,146,Loomis St & Jackson Blvd,86HJV8HQ%2B55,Deficit,19,60607
+2.7,"S Indiana Ave & E 26th St, Chicago, IL",3,41.845687,-87.622481,147,Indiana Ave & 26th St,86HJR9WH%2B72,Deficit,15,60616
+2.9,"W 33rd St & S State St, Chicago, IL",14,41.834734,-87.625813,148,State St & 33rd St,86HJR9MF%2BVM,Excess,15,60616
+3.5,"S Calumet Ave & E 33rd Blvd, Chicago, IL",10,41.8349,-87.61793,149,Calumet Ave & 33rd St,86HJR9MJ%2BXR,Excess,11,60616
+3.8,"E 31st St & Fort Dearborn Dr, Chicago, IL",17,41.838556,-87.608218,150,Fort Dearborn Dr & 31st St,86HJR9QR%2BCP,Excess,27,60616
+4.8,"W Diversey Pkwy & N Lincoln Ave, Chicago, IL",3,41.932225,-87.658617,152,Lincoln Ave & Diversey Pkwy,86HJW8JR%2BVH,Deficit,15,60614
+5.7,"W Wellington Ave & N Southport Ave, Chicago, IL",12,41.935733,-87.663576,153,Southport Ave & Wellington Ave,86HJW8PP%2B7H,Excess,19,60657
+6,"N Southport Ave & W Belmont Ave, Chicago, IL",14,41.93947775,-87.66374767,154,Southport Ave & Belmont Ave,86HJW8QP%2BQG,Excess,15,60657
+6.2,"W Wellington Ave & N Clark St, Chicago, IL",15,41.93649682,-87.64753866,156,Clark St & Wellington Ave,86HJW9P2%2BHX,Excess,15,60657
+7,"DuSable Lake Shore Dr & Wellington Ave, Chicago, IL",12,41.93668845,-87.63682902,157,DuSable Lake Shore Dr & Wellington Ave,86HJW9P7%2BM7,Excess,15,60657
+4.4,"N Milwaukee Ave & W Wabansia Ave, Chicago, IL",6,41.912616,-87.681391,158,Milwaukee Ave & Wabansia Ave,86HJW879%2B2C,Deficit,15,60647
+4.6,"N Claremont Ave & W Hirsch St, Chicago, IL",8,41.907781,-87.685854,159,Claremont Ave & Hirsch St,86HJW857%2B4M,Excess,11,60622
+4.9,"W North Ave & N Campbell Ave, Chicago, IL",14,41.910535,-87.689556,160,Campbell Ave & North Ave,86HJW866%2B65,Excess,15,60647
+3.4,"N Rush St & E Superior St, Chicago, IL",13,41.89576475,-87.62590803,161,Rush St & Superior St,86HJV9WF%2B8J,Sufficient Quantity,23,60611
+5.6,"W Wellington Ave & N Damen Ave, Chicago, IL",15,41.93588,-87.67842,162,Damen Ave & Wellington Ave,86HJW8PC%2B9J,Excess,15,60618
+5.3,"N Clybourn Ave & N Damen Ave, Chicago, IL",5,41.931931,-87.677856,163,Damen Ave & Clybourn Ave,86HJW8JC%2BQV,Deficit,15,60618
+2,"N Franklin St & W Lake St, Chicago, IL",19,41.885837,-87.6355,164,Franklin St & Lake St,86HJV9P7%2B8R,Excess,27,60606
+7,"W Grace St & N Clark St, Chicago, IL",6,41.95078,-87.659172,165,Clark St & Grace St,86HJX82R%2B88,Deficit,23,60613
+5,"W Wrightwood Ave & Ashland Ave, Chicago, IL",2,41.92883,-87.668507,166,Ashland Ave & Wrightwood Ave,86HJW8HJ%2BGH,Deficit,15,60614
+2.4,"W Coulter St & S Damen Ave, Chicago, IL",1,41.8492,-87.67564,167,Damen Ave & Coulter St,86HJR8XF%2BMP,Deficit,7,60608
+1.5,"Michigan Ave & E 14th St, Chicago, IL",15,41.864059,-87.623727,168,Michigan Ave & 14th St,86HJV97G%2BJG,Excess,19,60605
+1,"S Canal St & W Harrison St, Chicago, IL",5,41.874255,-87.639573,169,Canal St & Harrison St,86HJV9F6%2BP5,Deficit,15,60699
+0.9,"W 18th St & S Clinton St, Chicago, IL",2,41.85795,-87.640826,170,Clinton St & 18th St,86HJV955%2B5M,Deficit,15,60616
+1.1,"S May St & W Cullerton St, Chicago, IL",6,41.855136,-87.654127,171,May St & Cullerton St,86HJV84W%2B38,Sufficient Quantity,11,60608
+3.9,"N Rush St & E Cedar St, Chicago, IL",2,41.9023087,-87.62769053,172,Rush St & Cedar St,86HJW92C%2BWW,Deficit,11,60610
+3.8,"N Mies Van Der Rohe Way & E Chicago Ave, Chicago, IL",10,41.89694463,-87.62175769,173,Mies van der Rohe Way & Chicago Ave,86HJV9WH%2BQ7,Excess,15,60611
+1.5,"W Madison St & N Canal St, Chicago, IL",20,41.882091,-87.639833,174,Canal St & Madison St,86HJV9J6%2BR3,Sufficient Quantity,35,60606
+1.4,"S Wells St & W Polk St, Chicago, IL",14,41.87273154,-87.63351649,175,Wells St & Polk St,86HJV9F8%2B3H,Excess,19,60607
+3.8,"W Elm St & N Clark St, Chicago, IL",16,41.902973,-87.63128,176,Clark St & Elm St,86HJW939%2B5F,Deficit,39,60610
+6,"Theater on the Lake, 2401 N Lake Shore Dr., Chicago, IL",15,41.926277,-87.630834,177,Theater on the Lake,86HJW9G9%2BGM,Sufficient Quantity,31,60614
+1.6,"W 19th St & S State St, Chicago, IL",6,41.856594,-87.627542,178,State St & 19th St,86HJV94C%2BJX,Deficit,15,60616
+4.3,"King Drive & Pershing, Chicago, IL",15,41.8246,-87.61678,179,MLK Jr Dr & Pershing Rd,86HJR9FM%2BR7,Excess,15,60653
+4.3,"E Banks St & N Ritchie Ct, Chicago, IL",4,41.906866,-87.626217,180,Ritchie Ct & Banks St,86HJW94F%2BPG,Deficit,15,60610
+2.8,"W Illinois St & N La Salle St, Chicago, IL",11,41.890762,-87.631697,181,LaSalle St & Illinois St,86HJV9R9%2B88,Deficit,31,60654
+3.4,"N Wells St, Chicago, IL",21,41.903222,-87.634324,182,Wells St & Elm St,86HJW938%2B77,Excess,23,60606
+3.8,"N Damen Ave & W Thomas St, Chicago, IL",21,41.901315,-87.677409,183,Damen Ave & Thomas St (Augusta Blvd),86HJW82F%2BG2,Excess,23,60622
+3.2,"W 35th St & S State St, Chicago, IL",6,41.83103631,-87.62679756,184,State St & 35th St,86HJR9JF%2BC7,Deficit,19,60609
+5.3,"N Stave St & W Armitage Ave, Chicago, IL",0,41.917741,-87.691392,185,Stave St & Armitage Ave,86HJW895%2B3C,Deficit,11,60647
+2.9,"N Ogden Ave & W Race Ave, Chicago, IL",0,41.891795,-87.658751,186,Ogden Ave & Race Ave,86HJV8RR%2BPF,Deficit,15,60642
+4.9,"W Fullerton Ave & N Greenview Ave, Chicago, IL",6,41.92533,-87.6658,188,Greenview Ave & Fullerton Ave,86HJW8GM%2B4M,Deficit,15,60614
+5.2,"N Southport Ave & W Wrightwood Ave, Chicago, IL",3,41.928773,-87.663913,190,Southport Ave & Wrightwood Ave,86HJW8HP%2BGC,Deficit,15,60614
+1.4,"S Canal St & W Monroe St, Chicago, IL",0,41.88169,-87.63953,191,Canal St & Monroe St,86HJV9J6%2BM5,Deficit,27,60606
+1.3,"S Canal St & W Adams St, Chicago, IL",46,41.879255,-87.639904,192,Canal St & Adams St,86HJV9H6%2BP2,Excess,47,60606
+2.7,"E 29th St & S State St, Chicago, IL",5,41.841707,-87.626938,193,State St & 29th St,86HJR9RF%2BM6,Sufficient Quantity,11,60616
+2.7,"N Wabash Ave & E Wacker Pl, Chicago, IL",16,41.886875,-87.62603,194,Wabash Ave & Wacker Pl,86HJV9PF%2BQH,Excess,19,60601
+2.6,"N Columbus Dr & E Randolph St, Chicago, IL",14,41.884728,-87.619521,195,Columbus Dr & Randolph St,86HJV9MJ%2BV5,Deficit,55,60601
+3.2,"Pioneer Court & Cityfront Plaza Dr, Chicago, IL",28,41.890573,-87.622072,196,Cityfront Plaza Dr & Pioneer Ct,86HJV9RH%2B65,Excess,31,60611
+2.3,"Michigan Ave & E Madison St, Chicago, IL",8,41.882134,-87.625125,197,Michigan Ave & Madison St,86HJV9JF%2BVX,Deficit,19,60602
+1.2,"W Madison St & S Green St, Chicago, IL",26,41.881892,-87.648789,198,Green St & Madison St,86HJV9J2%2BQF,Excess,27,60607
+3,"E Grand Ave & N Wabash Ave, Chicago, IL",4,41.891466,-87.626761,199,Wabash Ave & Grand Ave,86HJV9RF%2BH7,Deficit,31,60654
+5.3,"E 47th St & S Martin Luther King Dr, Chicago, IL",2,41.809851,-87.616279,200,MLK Jr Dr & 47th St,86HJR95M%2BWF,Deficit,11,60653
+4.2,"S Indiana Ave & E 40th St, Chicago, IL",4,41.82168,-87.6216,201,Indiana Ave & 40th St,86HJR9CH%2BM9,Deficit,11,60653
+0.5,"W 18th St & S Halsted St, Chicago, IL",0,41.85750568,-87.64599145,202,Halsted St & 18th St,86HJV953%2B2J,Deficit,15,60608
+2.8,"W 21st St & S Western Ave, Chicago, IL",10,41.854109,-87.685838,203,Western Ave & 21st St,86HJV837%2BJM,Excess,15,60608
+6.3,"S Prairie Ave & E Garfield Blvd, Chicago, IL",8,41.794853,-87.618691,204,Prairie Ave & Garfield Blvd,86HJQ9VJ%2BWG,Excess,11,60615
+1.6,"W 18th St & S Paulina St, Chicago, IL",2,41.857901,-87.668745,205,Paulina St & 18th St,86HJV85J%2B5G,Deficit,15,60608
+1.3,"S Archer Ave & S Halsted St, Chicago, IL",0,41.847203,-87.646795,206,Halsted St & Archer Ave,86HJR9W3%2BV7,Deficit,15,60616
+1.6,"W 28th St & S Emerald Ave, Chicago, IL",13,41.84358,-87.645368,207,Emerald Ave & 28th St,86HJR9V3%2BCV,Excess,15,60616
+1.4,"W Cullerton St & S Laflin St, Chicago, IL",14,41.85491458,-87.66355991,208,Laflin St & Cullerton St,86HJV83P%2BXH,Excess,15,60608
+1.6,"S Archer Ave & S Normal Ave, Chicago, IL",11,41.849527,-87.640591,209,Normal Ave & Archer Ave,86HJR9X5%2BRQ,Excess,11,60616
+3.3,"W Division St & Ashland Ave, Chicago, IL",22,41.90345,-87.667747,210,Ashland Ave & Division St,86HJW83J%2B9W,Excess,27,60622
+3.3,"N St Clair St & E Erie St, Chicago, IL",5,41.89434514,-87.62279838,211,St. Clair St & Erie St,86HJV9VG%2BPV,Deficit,19,60611
+2.6,"N Wells St & W Hubbard St, Chicago, IL",16,41.889906,-87.634266,212,Wells St & Hubbard St,86HJV9Q8%2BX7,Sufficient Quantity,31,60654
+6.1,"N Leavitt St, Chicago, IL",13,41.91050937,-87.68238902,213,Leavitt St & North Ave,86HJW869%2B62,Excess,15,60618
+3.4,"N Damen Ave & W Grand Ave, Chicago, IL",12,41.89239445,-87.67688513,214,Damen Ave & Grand Ave,86HJV8RF%2BX6,Sufficient Quantity,23,60622
+2.6,"W Madison St & N Damen Ave, Chicago, IL",12,41.88137,-87.67493,215,Damen Ave & Madison St,86HJV8JG%2BG2,Excess,15,60612
+4.8,"N California Ave & W Division St, Chicago, IL",7,41.903029,-87.697474,216,California Ave & Division St,86HJW833%2B62,Sufficient Quantity,15,60622
+1.6,"Hyatt House Chicago / West Loop-Fulton Market, 105 N May St, Chicago, IL",4,41.88661649,-87.65803993,217,Elizabeth (May) St & Fulton St,86HJV8PR%2BJQ,Deficit,15,60607
+1.5,"S Wells St & W 19th St, Chicago, IL",8,41.856802,-87.633879,218,Wells St & 19th St,86HJV948%2BPC,Excess,11,60616
+4.7,"N Damen Ave & W Cortland St, Chicago, IL",18,41.915983,-87.677335,219,Damen Ave & Cortland St,86HJW88F%2B93,Excess,19,60647
+6,"W Drummond Pl & N Clark St, Chicago, IL",14,41.931248,-87.644336,220,Clark St & Drummond Pl,86HJW9J4%2BF7,Excess,23,60614
+5.4,"N Rockwell St & N Milwaukee Ave, Chicago, IL",9,41.92019556,-87.6926592,222,Milwaukee Ave & Rockwell St,86HJW8C4%2B3W,Sufficient Quantity,19,60647
+3.9,"N Clifton Ave & W Armitage Ave, Chicago, IL",5,41.918216,-87.656936,223,Clifton Ave & Armitage Ave,86HJW89V%2B76,Deficit,15,60614
+3.3,"W Willow St & N Halsted St, Chicago, IL",1,41.913865,-87.648755,224,Halsted St & Willow St,86HJW972%2BGF,Deficit,19,60614
+3.8,"W Dickens Ave & N Halsted St, Chicago, IL",2,41.919936,-87.64883,225,Halsted St & Dickens Ave,86HJW992%2BXF,Deficit,23,60614
+6.2,"N Racine Ave & W Belmont Ave, Chicago, IL",8,41.939743,-87.658865,226,Racine Ave & Belmont Ave,86HJW8QR%2BVF,Sufficient Quantity,15,60657
+6.6,"N Southport Ave & W Waveland Ave, Chicago, IL",1,41.94815,-87.66394,227,Southport Ave & Waveland Ave,86HJW8XP%2B7C,Deficit,23,60613
+5.9,"W Melrose St & N Damen Ave, Chicago, IL",7,41.9406,-87.6785,228,Damen Ave & Melrose Ave,86HJW8RC%2B6J,Sufficient Quantity,15,60618
+6.3,"N Southport Ave & W Roscoe St, Chicago, IL",5,41.943739,-87.66402,229,Southport Ave & Roscoe St,86HJW8VP%2BF9,Deficit,19,60657
+4.6,"W Webster Ave & N Wood St, Chicago, IL",13,41.92105673,-87.67279744,230,Wood St & Webster Ave,86HJW8CG%2BCV,Excess,19,60614
+8,"W Montrose Ave & N Sheridan Rd, Chicago, IL",9,41.96167,-87.65464,231,Sheridan Rd & Montrose Ave,86HJX86W%2BM4,Deficit,23,60613
+7.5,"N Pine Grove Ave & W Waveland Ave, Chicago, IL",23,41.94947274,-87.64645279,232,Pine Grove Ave & Waveland Ave,86HJW9X3%2BQC,Excess,23,60613
+1.4,"W Washington Blvd & N Sangamon St, Chicago, IL",1,41.883165,-87.6511,233,Sangamon St & Washington Blvd,86HJV8MX%2B7H,Deficit,15,60607
+7.4,"W Montrose Ave & N Clark St, Chicago, IL",9,41.961588,-87.666036,234,Clark St & Montrose Ave,86HJX86M%2BJH,Sufficient Quantity,19,60613
+3.4,"W Schiller St & N Sedgwick St, Chicago, IL",1,41.907626,-87.638566,236,Sedgwick St & Schiller St,86HJW956%2B3H,Deficit,15,60610
+3.2,"King Drive & 29th Street, Chicago, IL",8,41.842052,-87.617,237,MLK Jr Dr & 29th St,86HJR9RM%2BR5,Deficit,19,60616
+7.8,"Wolcott Tap, 1834 W Montrose Ave, Chicago, IL",0,41.961406,-87.676169,238,Wolcott (Ravenswood) Ave & Montrose Ave,86HJX86F%2BHG,Deficit,15,60613
+7.9,"N Western Ave & W Leland Ave, Chicago, IL",17,41.9663998,-87.68870428,239,Western Ave & Leland Ave,86HJX886%2BHG,Excess,19,60625
+7.5,"N Sheridan Rd & W Irving Park Rd, Chicago, IL",12,41.954245,-87.654406,240,Sheridan Rd & Irving Park Rd,86HJX83W%2BM6,Sufficient Quantity,27,60613
+0.6,"Divvy, Morgan St & Polk St, Chicago, IL",15,41.871737,-87.65103,241,Morgan St & Polk St,86HJV8CX%2BMH,Excess,19,60607
+7.7,"N Damen Ave & W Leland Ave, Chicago, IL",11,41.967094,-87.679028,242,Damen Ave & Leland Ave,86HJX88C%2BR9,Excess,15,60625
+7.6,"N Lincoln Ave & W Sunnyside Ave, Chicago, IL",4,41.963004,-87.684781,243,Lincoln Ave & Sunnyside Ave,86HJX878%2B63,Deficit,15,60618
+7,"N Ravenswood Ave & W Irving Park Rd, Chicago, IL",5,41.95469,-87.67393,244,Ravenswood Ave & Irving Park Rd,86HJX83G%2BVC,Deficit,19,60613
+8.8,"N Clarendon Ave & W Junior Terrace, Chicago, IL",19,41.961004,-87.649603,245,Clarendon Ave & Junior Ter,86HJX962%2BC5,Excess,23,60613
+6.9,"W Belle Plaine Ave & Ashland Ave, Chicago, IL",7,41.956057,-87.668835,246,Ashland Ave & Belle Plaine Ave,86HJX84J%2BCF,Excess,11,60613
+7.3,"S Shore Dr & E 55th St, Chicago, IL",16,41.795212,-87.580715,247,Shore Dr & 55th St,86HJQCW9%2B3P,Excess,19,60615
+7.5,"S Woodlawn Ave & E 55th St, Chicago, IL",18,41.795264,-87.596471,248,Woodlawn Ave & 55th St,86HJQCW3%2B4C,Excess,19,60637
+9.2,"W Montrose Harbor Dr, Chicago, IL",23,41.963982,-87.638181,249,Montrose Harbor,86HJX976%2BHP,Excess,31,60640
+5.5,"W Wellington Ave & Ashland Ave, Chicago, IL",3,41.936083,-87.669807,250,Ashland Ave & Wellington Ave,86HJW8PJ%2BC3,Deficit,19,60657
+9,"N Clarendon Ave & W Leland Ave, Chicago, IL",5,41.967968,-87.650001,251,Clarendon Ave & Leland Ave,86HJX89X%2B5X,Deficit,15,60640
+6.3,"S Greenwood Ave & E 47th St, Chicago, IL",9,41.809835,-87.599383,252,Greenwood Ave & 47th St,86HJRC52%2BW6,Excess,15,60653
+8.4,"N Winthrop Ave & W Lawrence Ave, Chicago, IL",10,41.968812,-87.657659,253,Winthrop Ave & Lawrence Ave,86HJX89R%2BGW,Excess,15,60640
+8.1,"N Pine Grove Ave & Irving Park Rd, Chicago, IL",9,41.954383,-87.648043,254,Pine Grove Ave & Irving Park Rd,86HJX932%2BQQ,Excess,15,60613
+1.3,"Roosevelt Rd & S Indiana Ave, Chicago, IL",12,41.867888,-87.623041,255,Indiana Ave & Roosevelt Rd,86HJV99G%2B5Q,Deficit,39,60605
+11.5,"N Broadway & N Sheridan Rd, Chicago, IL",0,41.952833,-87.649993,256,Broadway & Sheridan Rd,86HJX932%2B42,Deficit,15,60626
+6.5,"N Lincoln Ave & W Waveland Ave, Chicago, IL",7,41.948797,-87.675278,257,Lincoln Ave & Waveland Ave,86HJW8XF%2BGV,Sufficient Quantity,15,60613
+5.5,"N Elston Ave & W Logan Blvd, Chicago, IL",26,41.929465,-87.684158,258,Logan Blvd & Elston Ave,86HJW8H8%2BQ8,Excess,27,60647
+5.8,"Divvy, California Ave & Francis Pl (Temp), Chicago, IL",0,41.91849115,-87.6974228,259,California Ave & Francis Pl (Temp),86HJW893%2B92,Deficit,15,60647
+6.7,"N Kedzie Ave & N Milwaukee Ave, Chicago, IL",21,41.929567,-87.707857,260,Kedzie Ave & Milwaukee Ave,86HJW7HR%2BRV,Excess,35,60647
+1.6,"S Hermitage Ave & W Polk St, Chicago, IL",10,41.871514,-87.669886,261,Hermitage Ave & Polk St,86HJV8CJ%2BJ2,Excess,15,60612
+2.6,"W 37th St & S Halsted St, Chicago, IL",11,41.827059,-87.64572,262,Halsted St & 37th St,86HJR9G3%2BRP,Excess,11,60609
+3.6,"E 32nd St & S Rhodes Ave, Chicago, IL",8,41.836208,-87.613533,263,Rhodes Ave & 32nd St,86HJR9PP%2BFH,Excess,11,60616
+2.7,"N Stetson Ave & East South Water Street, Chicago, IL",5,41.886835,-87.62232,264,Stetson Ave & South Water St,86HJV9PH%2BP3,Deficit,19,60601
+4.9,"E Oakwood Blvd & S Cottage Grove Ave, Chicago, IL",5,41.822985,-87.6071,265,Cottage Grove Ave & Oakwood Blvd,86HJR9FV%2B55,Deficit,15,60653
+6,"S Lake Park Ave & E 47th St, Chicago, IL",7,41.809443,-87.591875,267,Lake Park Ave & 47th St,86HJRC55%2BQ6,Sufficient Quantity,15,60615
+2.4,"S DuSable Lake Shore Dr., Chicago, IL",6,41.911722,-87.626804,268,DuSable Lake Shore Dr & North Blvd,86HJW96F%2BM7,Deficit,39,60605
+11,"S Stony Is Ave & E 75th St, Chicago, IL",11,41.75866967,-87.58688287,270,Stony Island Ave & 75th St,86HJQC57%2BF6,Excess,11,60649
+5.3,"S Cottage Grove Ave & E 43rd St, Chicago, IL",9,41.816499,-87.606582,271,Cottage Grove Ave & 43rd St,86HJR98V%2BH9,Excess,11,60653
+2.9,"S Indiana Ave & E 31st St, Chicago, IL",4,41.838842,-87.621857,272,Indiana Ave & 31st St,86HJR9QH%2BG7,Deficit,11,60616
+,"Michigan Ave & E 18th St, Chicago, IL",8,41.857813,-87.62455,273,Michigan Ave & 18th St,86HJV95G%2B45,Deficit,23,60616
+0.8,"S Racine Ave & W 15th St, Chicago, IL",9,41.861267,-87.656625,274,Racine Ave & 15th St,86HJV86V%2BG8,Excess,15,60608
+,"13th St & Ashland Ave, Wilmette, IL",11,41.865234,-87.666507,275,Ashland Ave & 13th St,86HJV88M%2B39,Excess,15,60091
+5.8,"W North Ave & N California Ave, Chicago, IL",7,41.9104754,-87.6968944,276,California Ave & North Ave,86HJW863%2B56,Excess,11,60647
+2.8,"W Grand Ave & Ashland Ave, Chicago, IL",14,41.891072,-87.666611,277,Ashland Ave & Grand Ave,86HJV8RM%2BC9,Excess,15,60642
+2.7,"W 35th St & S Wallace St, Chicago, IL",9,41.83070705,-87.64125533,278,Wallace St & 35th St,86HJR9J5%2B7F,Excess,15,60616
+2.4,"W 35th St & S Halsted St, Chicago, IL",4,41.830661,-87.647172,279,Halsted St & 35th St,86HJR9J3%2B74,Deficit,15,60608
+2.2,"S Morgan St & W 31st St, Chicago, IL",3,41.8378,-87.65114,280,Morgan St & 31st St,86HJR8QX%2B4G,Deficit,11,60608
+3.1,"W 24th St & S Western Ave, Chicago, IL",6,41.84847,-87.685109,281,Western Ave & 24th St,86HJR8X7%2B9X,Excess,7,60608
+0.1,"W Maxwell St & S Halsted St, Chicago, IL",14,41.864883,-87.647071,282,Halsted St & Maxwell St,86HJV973%2BX5,Excess,15,60607
+1.6,"Jackson Blvd & S La Salle St, Chicago, IL",30,41.878166,-87.631929,283,LaSalle St & Jackson Blvd,86HJV9H9%2B76,Excess,35,60604
+2,"Michigan Ave & Jackson Blvd, Chicago, IL",3,41.87785,-87.62408,284,Michigan Ave & Jackson Blvd,86HJV9HG%2B49,Deficit,23,60604
+2.9,"N Wood St & W Hubbard St, Chicago, IL",18,41.889899,-87.671473,285,Wood St & Hubbard St,86HJV8QH%2BXC,Excess,19,60622
+1.7,"The Franklin, 222 W Adams St, Chicago, IL",7,41.87943409,-87.63550401,286,Franklin St & Adams St (Temp),86HJV9H7%2BQQ,Sufficient Quantity,15,60606
+1.6,"W Monroe St & S Franklin St, Chicago, IL",8,41.880317,-87.635185,287,Franklin St & Monroe St,86HJV9J7%2B4W,Deficit,31,60606
+3.9,"N Larrabee St & W Armitage Ave, Chicago, IL",1,41.918084,-87.643749,288,Larrabee St & Armitage Ave,86HJW994%2B6G,Deficit,15,60614
+3.9,"N Wells St & W Concord Ln, Chicago, IL",11,41.912133,-87.634656,289,Wells St & Concord Ln,86HJW968%2BV4,Excess,19,60614
+6.3,"W Palmer Ct & N Kedzie Blvd, Chicago, IL",2,41.921525,-87.707322,290,Kedzie Ave & Palmer Ct,86HJW7CV%2BJ3,Deficit,15,60647
+3.5,"N Wells St & W Evergreen Ave, Chicago, IL",15,41.906724,-87.63483,291,Wells St & Evergreen Ave,86HJW948%2BM3,Excess,19,60610
+7.2,"N Southport Ave & N Clark St, Chicago, IL",2,41.957081,-87.664199,292,Southport Ave & Clark St,86HJX84P%2BR8,Deficit,11,60613
+8.1,"Wilson & Broadway, Chicago, IL",4,41.965221,-87.658139,293,Broadway & Wilson - Truman College Vaccination Site,86HJX88R%2B3P,Deficit,23,60640
+10.2,"W Berwyn Ave & N Broadway, Chicago, IL",4,41.978353,-87.659753,294,Broadway & Berwyn Ave,86HJX8HR%2B83,Deficit,15,60640
+8.6,"W Argyle St & N Broadway, Chicago, IL",8,41.973815,-87.65966,295,Broadway & Argyle St,86HJX8FR%2BG4,Deficit,19,60640
+7.3,"N Paulina St & W Montrose Ave, Chicago, IL",3,41.961507,-87.671387,297,Paulina St & Montrose Ave,86HJX86H%2BJC,Deficit,15,60613
+7,"N Lincoln Ave & W Belle Plaine Ave, Chicago, IL",8,41.95600355,-87.68016145,298,Lincoln Ave & Belle Plaine Ave,86HJX849%2BCW,Sufficient Quantity,15,60618
+6.7,"W Roscoe St & N Halsted St, Chicago, IL",7,41.94367,-87.64895,299,Halsted St & Roscoe St,86HJW9V2%2BFC,Sufficient Quantity,15,60657
+6.5,"W Barry Ave & N Broadway, Chicago, IL",3,41.93758232,-87.64409781,300,Broadway & Barry Ave,86HJW9Q4%2B29,Deficit,19,60657
+4.1,"W Schiller St & N Clark St, Chicago, IL",0,41.907993,-87.631501,301,Clark St & Schiller St,86HJW959%2B59,Deficit,19,60610
+5.4,"N Sheffield Ave & W Wrightwood Ave, Chicago, IL",0,41.928712,-87.653833,302,Sheffield Ave & Wrightwood Ave,86HJW8HW%2BFF,Deficit,31,60614
+7.3,"W Cornelia Ave & N Broadway, Chicago, IL",20,41.945529,-87.646439,303,Broadway & Cornelia Ave,86HJW9W3%2B6C,Excess,23,60657
+7.1,"W Waveland Ave & N Broadway, Chicago, IL",11,41.949074,-87.648636,304,Broadway & Waveland Ave,86HJW9X2%2BJG,Excess,15,60613
+4.2,"N Western Ave & W Division St, Chicago, IL",7,41.902893,-87.687275,305,Western Ave & Division St,86HJW837%2B53,Deficit,23,60622
+7.8,"W Buena Ave & N Sheridan Rd, Chicago, IL",11,41.958494,-87.654966,306,Sheridan Rd & Buena Ave,86HJX85W%2B92,Excess,19,60613
+4.8,"N Southport Ave & N Clybourn Ave, Chicago, IL",2,41.920771,-87.663712,307,Southport Ave & Clybourn Ave,86HJW8CP%2B8G,Deficit,15,60614
+6.2,"W Roscoe St & N Seeley Ave, Chicago, IL",9,41.943403,-87.679618,308,Seeley Ave & Roscoe St,86HJW8VC%2B95,Excess,11,60618
+4.8,"N Leavitt St & W Armitage Ave, Chicago, IL",3,41.917805,-87.682437,309,Leavitt St & Armitage Ave,86HJW899%2B42,Deficit,11,60647
+4.9,"W Charleston St & N Damen Ave, Chicago, IL",8,41.920082,-87.677855,310,Damen Ave & Charleston St,86HJW8CC%2B2V,Excess,11,60647
+8.1,"N Leavitt St & W Lawrence Ave, Chicago, IL",2,41.968885,-87.684001,311,Leavitt St & Lawrence Ave,86HJX898%2BH9,Deficit,19,60625
+8,"W Gordon Terrace & N Clarendon Ave, Chicago, IL",13,41.95786652,-87.64950514,312,Clarendon Ave & Gordon Ter,86HJX952%2B45,Excess,15,60613
+5.9,"W Fullerton Pkwy & N Lakeview Ave, Chicago, IL",10,41.925858,-87.638973,313,Lakeview Ave & Fullerton Pkwy,86HJW9G6%2B8C,Sufficient Quantity,19,60614
+7.3,"N Ravenswood Ave & W Berteau Ave, Chicago, IL",13,41.957921,-87.673567,314,Ravenswood Ave & Berteau Ave,86HJX85G%2B5H,Excess,15,60613
+3.9,"N Elston Ave & W Wabansia Ave, Chicago, IL",23,41.912919,-87.664169,315,Elston Ave & Wabansia Ave,86HJW87P%2B58,Excess,23,60642
+7.5,"N Damen Ave & W Sunnyside Ave, Chicago, IL",15,41.96325,-87.679258,316,Damen Ave & Sunnyside Ave,86HJX87C%2B87,Excess,19,60640
+1.6,"Divvy, Wood St & Taylor St (Temp), Chicago, IL",6,41.86926522,-87.67373085,317,Wood St & Taylor St (Temp),86HJV89G%2BPG,Deficit,23,60612
+7,"N Southport Ave & Irving Park Rd, Chicago, IL",12,41.954177,-87.664358,318,Southport Ave & Irving Park Rd,86HJX83P%2BM7,Excess,15,60613
+5.4,"W Diversey Pkwy & N Greenview Ave, Chicago, IL",14,41.93258963,-87.66593635,319,Greenview Ave & Diversey Pkwy,86HJW8MM%2B2J,Excess,15,60614
+1.2,"W Lexington St & S Loomis St, Chicago, IL",12,41.872187,-87.661501,320,Loomis St & Lexington St,86HJV8CQ%2BV9,Excess,19,60607
+1.4,"E 9th St & S Wabash Ave, Chicago, IL",14,41.870769,-87.625734,321,Wabash Ave & 9th St,86HJV9CF%2B8P,Excess,19,60605
+7.3,"S Kimbark Ave & E 53rd St, Chicago, IL",13,41.799568,-87.594747,322,Kimbark Ave & 53rd St,86HJQCX4%2BR4,Excess,19,60615
+9.4,"W Lawrence Ave & N Sheridan Rd, Chicago, IL",3,41.969517,-87.654691,323,Sheridan Rd & Lawrence Ave,86HJX89W%2BR4,Deficit,15,60640
+5.9,"Stockton & Wrightwood, Chicago, IL",14,41.93132,-87.638742,324,Stockton Dr & Wrightwood Ave,86HJW9J6%2BGG,Excess,15,60614
+8.2,"W Winnemac Ave & N Clark St, Chicago, IL",16,41.97334764,-87.66785547,325,Clark St & Winnemac Ave,86HJX8FJ%2B8V,Excess,19,60640
+7.8,"W Leland Ave & N Clark St, Chicago, IL",2,41.96705643,-87.66699046,326,Clark St & Leland Ave,86HJX88M%2BR6,Deficit,19,60640
+4.9,"N Sheffield Ave & W Webster Ave, Chicago, IL",4,41.92154,-87.653818,327,Sheffield Ave & Webster Ave,86HJW8CW%2BJF,Deficit,19,60614
+7.4,"S Ellis Ave & E 58th St, Chicago, IL",12,41.788746,-87.601334,328,Ellis Ave & 58th St,86HJQ9QX%2BFF,Excess,19,60637
+6.1,"DuSable Lake Shore Dr & Diversey Pkwy, Chicago, IL",5,41.932588,-87.636427,329,DuSable Lake Shore Dr & Diversey Pkwy,86HJW9M7%2B2C,Deficit,23,60614
+6.3,"N Lincoln Ave & W Addison St, Chicago, IL",7,41.946176,-87.673308,330,Lincoln Ave & Addison St,86HJW8WG%2BFM,Deficit,19,60613
+3.1,"N Clybourn Ave & N Halsted St, Chicago, IL",8,41.909668,-87.648128,331,Halsted St & Clybourn Ave,86HJW952%2BVP,Deficit,27,60610
+4.7,"W Diversey Pkwy & N Burling St, Chicago, IL",15,41.93314,-87.64776,332,Burling St & Diversey Pkwy,86HJW9M2%2B7V,Excess,19,60614
+4,"W Blackhawk St & Ashland Ave, Chicago, IL",6,41.907066,-87.667252,333,Ashland Ave & Blackhawk St,86HJW84M%2BR3,Deficit,15,60622
+,"Lake Shore Drive & Belmont, Chicago, IL",15,41.940775,-87.639192,334,DuSable Lake Shore Dr & Belmont Ave,86HJW9R6%2B88,Excess,19,60657
+3.8,"E 35th St & S Calumet Ave, Chicago, IL",2,41.831379,-87.618034,335,Calumet Ave & 35th St,86HJR9JJ%2BHQ,Deficit,15,60616
+5.8,"S Cottage Grove Ave & E 47th St, Chicago, IL",2,41.809855,-87.606755,336,Cottage Grove Ave & 47th St,86HJR95V%2BW7,Deficit,15,60615
+3.4,"W Chicago Ave & N Clark St, Chicago, IL",13,41.89675,-87.63089,337,Clark St & Chicago Ave,86HJV9W9%2BMJ,Excess,19,60610
+2,"E 18th St & S Calumet Ave, Chicago, IL",7,41.857611,-87.619407,338,Calumet Ave & 18th St,86HJV95J%2B26,Sufficient Quantity,15,60616
+2,"S Emerald Ave & W 31st St, Chicago, IL",5,41.838198,-87.645143,339,Emerald Ave & 31st St,86HJR9Q3%2B7W,Sufficient Quantity,11,60616
+6,"W Wrightwood Ave & N Clark St, Chicago, IL",14,41.929546,-87.643118,340,Clark St & Wrightwood Ave,86HJW9H4%2BRQ,Excess,15,60614
+2.3,"Adler Planetarium, 1300 S DuSable Lake Shore Dr., Chicago, IL",18,41.866095,-87.607267,341,Adler Planetarium,86HJV98V%2BC3,Sufficient Quantity,39,60605
+1.8,"S Wolcott Ave & W Polk St, Chicago, IL",15,41.871262,-87.673688,342,Wolcott Ave & Polk St,86HJV8CG%2BGG,Excess,23,60612
+4.6,"N Racine Ave & W Wrightwood Ave, Chicago, IL",0,41.928887,-87.658971,343,Racine Ave & Wrightwood Ave,86HJW8HR%2BHC,Deficit,15,60614
+8,"N Ravenswood Ave & W Lawrence Ave, Chicago, IL",32,41.96909,-87.674237,344,Ravenswood Ave & Lawrence Ave,86HJX89G%2BJ8,Excess,47,60640
+7.5,"S Lake Park Ave & E 56th St, Chicago, IL",9,41.793242,-87.587782,345,Lake Park Ave & 56th St,86HJQCV6%2B7V,Sufficient Quantity,19,60637
+1.9,"W Washington Blvd & N Ada St, Chicago, IL",11,41.88283,-87.661206,346,Ada St & Washington Blvd,86HJV8MQ%2B4G,Excess,15,60607
+6.5,"W Grace St & Ashland Ave, Chicago, IL",7,41.950687,-87.6687,347,Ashland Ave & Grace St,86HJX82J%2B7G,Sufficient Quantity,15,60613
+3.3,"S California Ave & W 21st St, Chicago, IL",5,41.85380407,-87.6957424,348,California Ave & 21st St,86HJV833%2BGP,Deficit,15,60608
+5.7,"W Wrightwood Ave & N Halsted St, Chicago, IL",13,41.929143,-87.649077,349,Halsted St & Wrightwood Ave,86HJW9H2%2BM9,Excess,15,60614
+3.1,"W Chicago Ave & Ashland Ave, Chicago, IL",14,41.89517271,-87.66754702,350,Ashland Ave & Chicago Ave,86HJV8WJ%2B3X,Excess,15,60622
+6,"E 51st St & S Cottage Grove Ave, Chicago, IL",13,41.803038,-87.606615,351,Cottage Grove Ave & 51st St,86HJR93V%2B69,Excess,15,60615
+8.7,"S Jeffery Blvd & E 67th St, Chicago, IL",6,41.77351755,-87.57714283,352,Jeffery Blvd & 67th St,86HJQCFF%2BC4,Sufficient Quantity,11,60649
+13.1,"N Clark St & Touhy Ave, Chicago, IL",10,42.01256012,-87.67436712,353,Clark St & Touhy Ave,86JJ287G%2B27,Excess,15,60626
+12.2,"W Greenleaf Ave & N Sheridan Rd, Chicago, IL",3,42.01058656,-87.6624121,354,Sheridan Rd & Greenleaf Ave,86JJ286Q%2B62,Deficit,15,60626
+8.9,"E 67th St, Chicago, IL",14,41.773643,-87.567514,355,South Shore Dr & 67th St,86HJQCFJ%2BFX,Excess,15,60637
+9.4,"S Stony Is Ave & E 71st St, Chicago, IL",3,41.76649294,-87.58646088,356,Stony Island Ave & 71st St,86HJQC87%2BHC,Deficit,11,60649
+2.9,"N Larrabee St & W Division St, Chicago, IL",20,41.90348607,-87.64335349,359,Larrabee St & Division St,86HJW934%2B9M,Excess,23,60610
+2.6,"W Oak St & N Larrabee St, Chicago, IL",18,41.90021949,-87.64298547,364,Larrabee St & Oak St,86HJW924%2B3R,Excess,19,60610
+2.3,"N North Branch St & N Halsted St, Chicago, IL",3,41.89939029,-87.64854491,365,Halsted St & North Branch St,86HJV9X2%2BQH,Deficit,15,60642
+2,"S Archer Ave & S Loomis St, Chicago, IL",11,41.84163254,-87.65743495,366,Loomis St & Archer Ave,86HJR8RV%2BM2,Excess,11,60608
+2.9,"W 35th St & S Racine Ave, Chicago, IL",1,41.83068857,-87.65621066,367,Racine Ave & 35th St,86HJR8JV%2B7G,Deficit,15,60608
+2.5,"S Archer Ave & Ashland Ave, Chicago, IL",13,41.83920868,-87.66560986,368,Ashland Ave & Archer Ave,86HJR8QM%2BMQ,Excess,15,60608
+3.1,"W 35th St & S Wood St, Chicago, IL",5,41.83010465,-87.67029831,369,Wood St & 35th St,86HJR8JH%2B2V,Sufficient Quantity,11,60609
+2.2,"E 21st St & S Calumet Ave, Chicago, IL",0,41.85418425,-87.61915374,370,Calumet Ave & 21st St,86HJV93J%2BM8,Deficit,15,60616
+4.9,"N Kedzie Ave & W Chicago Ave, Chicago, IL",6,41.8954653,-87.70612788,373,Kedzie Ave & Chicago Ave,86HJV7WV%2B5G,Sufficient Quantity,11,60622
+4.3,"W Walton St & N Western Ave, Chicago, IL",21,41.89841769,-87.68659602,374,Western Ave & Walton St,86HJV8X7%2B99,Excess,23,60622
+3.6,"S Sacramento Blvd, Chicago, IL",4,41.89046879,-87.70260751,375,Sacramento Blvd & Franklin Blvd,86HJV7RW%2B5X,Deficit,11,60612
+3.8,"N Artesian Ave & W Hubbard St, Chicago, IL",12,41.88949182,-87.68821937,376,Artesian Ave & Hubbard St,86HJV8Q6%2BQP,Deficit,35,60612
+4.4,"N Kedzie Ave & W Lake St, Chicago, IL",6,41.88460329,-87.70630374,377,Kedzie Ave & Lake St,86HJV7MV%2BRF,Deficit,15,60612
+3.9,"N California Ave & W Lake St, Chicago, IL",7,41.88445396,-87.69629814,378,California Ave & Lake St,86HJV8M3%2BQF,Excess,11,60612
+3.1,"W Monroe St & S Western Ave, Chicago, IL",8,41.87978771,-87.68611281,381,Western Ave & Monroe St,86HJV8H7%2BWH,Sufficient Quantity,15,60612
+2.8,"W Congress Pkwy & S Western Ave, Chicago, IL",16,41.87474885,-87.68644528,382,Western Ave & Congress Pkwy,86HJV8F7%2BVC,Excess,19,60612
+1.6,"S Paulina St & W Flournoy St, Chicago, IL",9,41.87295,-87.66913,383,Paulina St & Flournoy St,86HJV8FJ%2B58,Deficit,31,60612
+4.4,"W 51st St & S Halsted St, Chicago, IL",9,41.80183164,-87.6452139,384,Halsted St & 51st St,86HJR923%2BPW,Excess,11,60609
+5.9,"W Garfield Blvd & S Princeton Ave, Chicago, IL",2,41.794982,-87.633124,385,Princeton Ave & Garfield Blvd,86HJQ9V8%2BXQ,Deficit,11,60621
+5.1,"W 56th St & S Halsted St, Chicago, IL",9,41.79292965,-87.64499006,386,Halsted St & 56th St,86HJQ9V4%2B52,Excess,11,60621
+,"63rd & Halsted Center, 6310 S Halsted St, Chicago, IL",8,41.77938114,-87.64462082,388,Halsted & 63rd - Kennedy-King Vaccination Site,86HJQ9H4%2BQ5,Excess,11,60621
+6.7,"S Wentworth Ave & W 63rd St, Chicago, IL",6,41.78007963,-87.62974631,390,Wentworth Ave & 63rd St,86HJQ9JC%2B24,Sufficient Quantity,11,60621
+8.2,"W 69th St & S Halsted St, Chicago, IL",9,41.76906172,-87.64461358,391,Halsted St & 69th St,86HJQ994%2BJ5,Excess,11,60621
+7.6,"S Perry Ave & W 69th St, Chicago, IL",9,41.76929309,-87.62819593,392,Perry Ave & 69th St,86HJQ99C%2BPP,Excess,11,60621
+8.2,"E 71st St & S Calumet Ave, Chicago, IL",9,41.76550801,-87.61691793,393,Calumet Ave & 71st St,86HJQ98M%2B66,Excess,11,60619
+1.2,"AMLI 900, 900 S Clark St, Chicago, IL",4,41.870816,-87.631246,394,Clark St & 9th St (AMLI),86HJV9C9%2B8G,Deficit,15,60605
+9.8,"S Jeffery Blvd & E 76th St, Chicago, IL",11,41.75712007,-87.57583936,395,Jeffery Blvd & 76th St,86HJQC4F%2BRM,Excess,11,60649
+9.8,"S Yates Blvd & E 75th St, Chicago, IL",6,41.758768,-87.56644,396,Yates Blvd & 75th St,86HJQC5M%2BGC,Sufficient Quantity,11,60649
+10.8,"Rainbow Beach Park, 3111 E 77th St, Chicago, IL",2,41.75787145,-87.54938625,398,Rainbow Beach,86HJQF52%2B46,Deficit,15,60649
+10,"S South Shore Dr & E 74th St, Chicago, IL",6,41.76218896,-87.55927465,399,South Shore Dr & 74th St,86HJQC6R%2BV7,Sufficient Quantity,11,60649
+8.8,"S Cottage Grove Ave & E 71st St, Chicago, IL",9,41.76571904,-87.60495971,400,Cottage Grove Ave & 71st St,86HJQ98W%2B72,Excess,11,60619
+2.2,"W 28th Pl & S Shields Ave, Chicago, IL",11,41.842733,-87.635491,401,Shields Ave & 28th Pl,86HJR9V7%2B3R,Excess,11,60616
+2.5,"S Shields Ave & W 31st St, Chicago, IL",9,41.838464,-87.635406,402,Shields Ave & 31st St,86HJR9Q7%2B9R,Excess,15,60616
+2.9,"W 33rd St & S Wentworth Ave, Chicago, IL",0,41.83452989,-87.63182298,403,Wentworth Ave & 33rd St,86HJR9M9%2BR7,Deficit,15,60616
+3.3,"W 35th St & S Wentworth Ave, Chicago, IL",10,41.830777,-87.632504,405,Wentworth Ave & 35th St,86HJR9J8%2B8X,Excess,15,60609
+4.3,"S Lake Park Ave & E 35th St, Chicago, IL",4,41.83127424,-87.6087992,406,Lake Park Ave & 35th St,86HJR9JR%2BGF,Deficit,19,60616
+3.9,"S State St & E Pershing Rd, Chicago, IL",9,41.82301524,-87.62656802,407,State St & Pershing Rd,86HJR9FF%2B69,Excess,11,60609
+3.4,"W Root St & S Union Ave, Chicago, IL",9,41.819102,-87.643278,408,Union Ave & Root St,86HJR994%2BJM,Excess,11,60609
+4.5,"W 43rd St & S Shields Ave, Chicago, IL",3,41.81620768,-87.63481935,409,Shields Ave & 43rd St,86HJR988%2BF3,Deficit,11,60609
+4.7,"S Prairie Ave & E 43rd St, Chicago, IL",5,41.81665889,-87.61941246,410,Prairie Ave & 43rd St,86HJR98J%2BM6,Deficit,15,60653
+4,"W 47th Pl & S Halsted St, Chicago, IL",3,41.80813392,-87.64561655,411,Halsted St & 47th Pl,86HJR953%2B7Q,Deficit,11,60609
+4.9,"S Princeton Ave & W 47th St, Chicago, IL",2,41.80931771,-87.63344929,412,Princeton Ave & 47th St,86HJR958%2BPJ,Deficit,11,60609
+5.8,"S Lake Park Ave & S Woodlawn Ave, Chicago, IL",8,41.81409271,-87.59700515,413,Woodlawn Ave & Lake Park Ave,86HJRC73%2BJ5,Sufficient Quantity,15,60653
+0.7,"S Canal St & W Taylor St, Chicago, IL",7,41.870257,-87.639474,414,Canal St & Taylor St,86HJV9C6%2B46,Sufficient Quantity,15,60607
+5.9,"E 51st St & S Calumet Ave, Chicago, IL",7,41.80229465,-87.61805358,415,Calumet Ave & 51st St,86HJR92J%2BWQ,Excess,11,60615
+6.5,"E 49th St & S Dorchester Ave, Chicago, IL",4,41.805772,-87.592464,416,Dorchester Ave & 49th St,86HJRC45%2B82,Deficit,15,60615
+6.6,"E Hyde Park Blvd & S Cornell Ave, Chicago, IL",18,41.802406,-87.586924,417,Cornell Ave & Hyde Park Blvd,86HJRC27%2BX6,Excess,19,60615
+6.9,"E 53rd St & S Ellis Ave, Chicago, IL",1,41.79933626,-87.60095812,418,Ellis Ave & 53rd St,86HJQ9XX%2BPJ,Deficit,11,60615
+6.8,"S Lake Park Ave & E 53rd St, Chicago, IL",7,41.79949429,-87.5864499,419,Lake Park Ave & 53rd St,86HJQCX7%2BQC,Sufficient Quantity,15,60615
+7.3,"E 55th St & S Ellis Ave, Chicago, IL",5,41.79430062,-87.60144977,420,Ellis Ave & 55th St,86HJQ9VX%2BPC,Deficit,19,60615
+6.6,"King Drive & 56th Street, Chicago, IL",5,41.79342946,-87.61585326,421,MLK Jr Dr & 56th St,86HJQ9VM%2B9M,Sufficient Quantity,11,60637
+7.1,"DuSable Black History Museum and Education Center, 740 E 56th Pl, Chicago, IL",6,41.79156801,-87.60785218,422,DuSable Museum,86HJQ9RR%2BJV,Sufficient Quantity,11,60637
+7.5,"E 57th St & S University Ave, Chicago, IL",6,41.791478,-87.599861,423,University Ave & 57th St,86HJQCR2%2BH3,Deficit,31,60637
+7.7,"Museum of Science and Industry, Chicago, 5700 S DuSable Lake Shore Dr., Chicago, IL",6,41.79172821,-87.58394501,424,Museum of Science and Industry,86HJQCR8%2BMC,Deficit,27,60637
+8,"E 59th St & S Harper Ave, Chicago, IL",6,41.78794281,-87.58831517,425,Harper Ave & 59th St,86HJQCQ6%2B5M,Deficit,15,60637
+7.6,"E 60th St & S Ellis Ave, Chicago, IL",8,41.78509715,-87.60107276,426,Ellis Ave & 60th St,86HJQ9PX%2B2H,Deficit,19,60637
+8,"S Cottage Grove Ave & E 63rd St, Chicago, IL",11,41.78053094,-87.6059702,427,Cottage Grove Ave & 63rd St,86HJQ9JV%2B6J,Excess,15,60637
+8.7,"S Dorchester Ave & E 63rd St, Chicago, IL",11,41.78040565,-87.59141599,428,Dorchester Ave & 63rd St,86HJQCJ5%2B5C,Excess,11,60637
+8.4,"E 67th St & S Cottage Grove Ave, Chicago, IL",1,41.77372095,-87.60563486,429,Cottage Grove Ave & 67th St,86HJQ9FV%2BFP,Deficit,11,60637
+7.5,"S Martin Luther King Dr & E 63rd St, Chicago, IL",9,41.78008064,-87.61594286,430,MLK Jr Dr & 63rd St,86HJQ9JM%2B2J,Excess,11,60637
+7.3,"S Eberhart Ave & E 61st St, Chicago, IL",11,41.78407107,-87.61448354,431,Eberhart Ave & 61st St,86HJQ9MP%2BJ6,Excess,11,60637
+12.7,"W Lunt Ave & N Clark St, Chicago, IL",7,42.00901118,-87.67411172,432,Clark St & Lunt Ave,86JJ285G%2BJ9,Deficit,19,60626
+3.6,"S Kedzie Ave & W Harrison St, Chicago, IL",4,41.87359968,-87.70487075,433,Kedzie Ave & Harrison St,86HJV7FW%2BC3,Deficit,11,60612
+2,"Roosevelt Rd & W Ogden Ave, Chicago, IL",18,41.86650148,-87.68469707,434,Ogden Ave & Roosevelt Rd,86HJV888%2BJ4,Excess,19,60608
+3.1,"Roosevelt Rd & S Kedzie Ave, Chicago, IL",6,41.86649278,-87.70649618,435,Kedzie Ave & Roosevelt Rd,86HJV78V%2BHC,Sufficient Quantity,11,60612
+2.6,"Roosevelt Rd & S Fairfield Ave, Chicago, IL",7,41.866624,-87.694521,436,Fairfield Ave & Roosevelt Rd,86HJV884%2BJ5,Excess,11,60608
+2.6,"S Washtenaw Ave. & W Ogden Ave, Chicago, IL",12,41.86193049,-87.69345045,437,Washtenaw Ave & Ogden Ave,86HJV864%2BQJ,Excess,15,60608
+3.8,"Central Park Ave & W Ogden Ave, Chicago, IL",4,41.8540635,-87.71511734,438,Central Park Ave & Ogden Ave,86HJV73M%2BJX,Deficit,15,60623
+3.6,"S Kedzie Ave & W 21st St, Chicago, IL",4,41.85353363,-87.70507303,439,Kedzie Ave & 21st St,86HJV73V%2BCX,Deficit,11,60623
+4.3,"W 24th St & Central Park Ave, Chicago, IL",2,41.8481,-87.715068,440,Central Park Ave & 24th St,86HJR7XM%2B6X,Deficit,11,60623
+4,"W 24th St & S Kedzie Ave, Chicago, IL",6,41.84819095,-87.70541375,441,Kedzie Ave & 24th St,86HJR7XV%2B7R,Sufficient Quantity,11,60623
+3.5,"S California Ave & W 23rd Pl, Chicago, IL",11,41.84910969,-87.69513981,442,California Ave & 23rd Pl,86HJR8X3%2BJW,Excess,11,60608
+4.5,"W 26th St & S Millard Ave, Chicago, IL",1,41.84453113,-87.715922,443,Millard Ave & 26th St,86HJR7VM%2BRJ,Deficit,7,60623
+3.8,"S Albany Ave & W 26th St, Chicago, IL",5,41.84447501,-87.70201301,444,Albany Ave & 26th St,86HJR7VX%2BQ5,Sufficient Quantity,11,60623
+3.4,"S California Ave & W 26th St, Chicago, IL",3,41.84367992,-87.69496858,445,California Ave & 26th St,86HJR8V4%2BF2,Deficit,11,60623
+,"S Western Ave & W 28th St, Chicago, IL",8,41.84151771,-87.68513144,446,Western & 28th - Velasquez Institute Vaccination Site,86HJR8R7%2BJW,Excess,11,60608
+12.2,"N Glenwood Ave & W Morse Ave, Chicago, IL",13,42.00797192,-87.66550239,447,Glenwood Ave & Morse Ave,86JJ285M%2B5Q,Excess,15,60626
+10.5,"Warren Park East Parking Lot, Chicago, IL",8,42.00454962,-87.68066615,448,Warren Park East,86JJ2839%2BRP,Excess,11,60645
+10.2,"W Columbia Ave & N Clark St, Chicago, IL",8,42.00445063,-87.67240241,449,Clark St & Columbia Ave,86JJ283H%2BQ2,Sufficient Quantity,15,60626
+10.4,"Warren Park Field House, 6601 N Western Ave, Chicago, IL",4,42.001785,-87.688829,450,Warren Park West,86JJ2826%2BPF,Deficit,11,60645
+11.6,"W Loyola Ave & N Sheridan Rd, Chicago, IL",14,42.00104378,-87.66119824,451,Sheridan Rd & Loyola Ave,86JJ282Q%2BCG,Excess,23,60626
+9.9,"N Western Ave & W Granville Ave, Chicago, IL",2,41.99416137,-87.68943828,452,Western Ave & Granville Ave,86HJX8V6%2BM6,Deficit,11,60659
+9.9,"W Schreiber Ave & N Clark St, Chicago, IL",10,41.99925182,-87.67137734,453,Clark St & Schreiber Ave,86HJX8XH%2BPC,Excess,15,60626
+11.1,"W Granville Ave & N Broadway, Chicago, IL",22,41.99477969,-87.66028454,454,Broadway & Granville Ave,86HJX8VQ%2BWV,Excess,23,60660
+9.8,"W Peterson Ave & N Maplewood Ave, Chicago, IL",1,41.99023603,-87.69336964,455,Maplewood Ave & Peterson Ave,86HJX8R4%2B3M,Deficit,11,60659
+10,"2112 W Peterson Ave, Chicago, IL",5,41.991178,-87.683593,456,2112 W Peterson Ave,86HJX8R8%2BFH,Sufficient Quantity,11,60659
+9.3,"W Elmdale Ave & N Clark St, Chicago, IL",14,41.99086045,-87.66972363,457,Clark St & Elmdale Ave,86HJX8RJ%2B84,Excess,15,60660
+11,"W Thorndale Ave & N Broadway, Chicago, IL",6,41.98974251,-87.66014062,458,Broadway & Thorndale Ave,86HJX8QQ%2BVW,Deficit,19,60660
+8.8,"W Bryn Mawr Ave & N Clark St, Chicago, IL",6,41.983593,-87.669154,460,Clark St & Bryn Mawr Ave,86HJX8MJ%2BC8,Deficit,15,60660
+10.4,"N Ridge Ave & N Broadway, Chicago, IL",7,41.98404461,-87.66027383,461,Broadway & Ridge Ave,86HJX8MQ%2BJV,Sufficient Quantity,15,60660
+8.7,"Winchester (Ravenswood) Ave & Balmoral Ave, Chicago, IL",9,41.979762,-87.67753,462,Winchester (Ravenswood) Ave & Balmoral Ave,86HJX8HC%2BWX,Excess,15,60640
+8.5,"W Berwyn Ave & N Clark St, Chicago, IL",18,41.97803062,-87.66856492,463,Clark St & Berwyn Ave,86HJX8HJ%2B6H,Excess,19,60640
+8.4,"N Damen Ave & W Foster Ave, Chicago, IL",10,41.97561481,-87.67945904,464,Damen Ave & Foster Ave,86HJX8GC%2B66,Excess,15,60625
+9.3,"N Marine Dr & W Ainslie St, Chicago, IL",23,41.9716,-87.650154,465,Marine Dr & Ainslie St,86HJX8CX%2BJW,Excess,23,60640
+11.5,"N Ridge Blvd & Touhy Ave, Chicago, IL",11,42.01213228,-87.68291264,466,Ridge Blvd & Touhy Ave,86JJ2868%2BVR,Excess,11,60645
+10.9,"N Western Ave & W Lunt Ave, Chicago, IL",11,42.0085944,-87.69049224,467,Western Ave & Lunt Ave,86JJ2855%2BCR,Excess,15,60645
+9.3,"Budlong Woods Branch, Chicago Public Library, 5630 N Lincoln Ave, Chicago, IL",11,41.98366471,-87.69642256,468,Budlong Woods Library,86HJX8M3%2BFC,Excess,11,60659
+9.6,"N St Louis Ave & W Balmoral Ave, Chicago, IL",1,41.98039424,-87.71611496,469,St. Louis Ave & Balmoral Ave,86HJX7JM%2B5H,Deficit,15,60625
+9.1,"N Kedzie Ave & W Foster Ave, Chicago, IL",1,41.975672,-87.709261,470,Kedzie Ave & Foster Ave,86HJX7GR%2B77,Deficit,11,60625
+9.5,"N Francisco Ave & W Foster Ave, Chicago, IL",6,41.97563273,-87.70141944,471,Francisco Ave & Foster Ave,86HJX7GX%2B7C,Deficit,15,60625
+8.6,"N Lincoln Ave & W Winona St, Chicago, IL",6,41.9749113,-87.69250256,472,Lincoln Ave & Winona St,86HJX8F4%2BXX,Deficit,15,60625
+8.8,"N Christiana Ave & W Lawrence Ave, Chicago, IL",9,41.96835449,-87.71183067,474,Christiana Ave & Lawrence Ave,86HJX79Q%2B87,Excess,15,60625
+8.5,"N Washtenaw Ave & W Lawrence Ave, Chicago, IL",2,41.968987,-87.696027,475,Washtenaw Ave & Lawrence Ave,86HJX893%2BHH,Deficit,15,60625
+8.5,"N Kedzie Ave & W Leland Ave, Chicago, IL",7,41.96668636,-87.70805198,476,Kedzie Ave & Leland Ave,86HJX78R%2BMQ,Sufficient Quantity,15,60625
+8.3,"N Manor Ave & W Leland Ave, Chicago, IL",5,41.965875,-87.700825,477,Manor Ave & Leland Ave,86HJX78X%2B8M,Sufficient Quantity,11,60625
+8.1,"W Eastwood Ave & N Rockwell St, Chicago, IL",6,41.96590014,-87.69363849,478,Rockwell St & Eastwood Ave,86HJX884%2B9G,Deficit,15,60625
+9.1,"W Montrose Ave & N Drake Ave, Chicago, IL",14,41.96115408,-87.71656907,479,Drake Ave & Montrose Ave,86HJX76M%2BF9,Excess,15,60618
+8.2,"W Montrose Ave & N Albany Ave, Chicago, IL",1,41.961041,-87.705866,480,Albany Ave & Montrose Ave,86HJX76V%2BCM,Deficit,11,60618
+7.9,"W Montrose Ave & N California Ave, Chicago, IL",2,41.961068,-87.695439,481,California Ave & Montrose Ave,86HJX863%2BCR,Deficit,15,60618
+7.7,"N Campbell Ave & W Montrose Ave, Chicago, IL",9,41.96152593,-87.69116504,482,Campbell Ave & Montrose Ave,86HJX865%2BJG,Excess,15,60618
+8.2,"N Avondale Ave & Irving Park Rd, Chicago, IL",7,41.953393,-87.732002,483,Avondale Ave & Irving Park Rd,86HJX739%2B95,Deficit,19,60641
+8.5,"N Monticello Ave & W Irving Park Rd, Chicago, IL",11,41.95400484,-87.71912818,484,Monticello Ave & Irving Park Rd,86HJX73J%2BJ8,Excess,15,60618
+7.6,"N Sawyer Ave & W Irving Park Rd, Chicago, IL",5,41.95358618,-87.7093108,485,Sawyer Ave & Irving Park Rd,86HJX73R%2BC7,Deficit,15,60618
+7.2,"N Oakley Ave & W Irving Park Rd, Chicago, IL",2,41.95434085,-87.68607962,486,Oakley Ave & Irving Park Rd,86HJX837%2BPH,Deficit,15,60618
+7.2,"N California Ave & W Byron St, Chicago, IL",11,41.95216219,-87.69805111,487,California Ave & Byron St,86HJX822%2BVQ,Excess,19,60618
+8,"Divvy, Pulaski Rd & Eddy St (Temp), Chicago, IL",3,41.946264,-87.731023,488,Pulaski Rd & Eddy St (Temp),86HJW7W9%2BGH,Deficit,11,60641
+7.5,"W Addison St & N Drake Ave, Chicago, IL",13,41.947326,-87.717582,489,Drake Ave & Addison St,86HJW7WJ%2BWX,Excess,15,60618
+7,"N Troy St & N Elston Ave, Chicago, IL",11,41.94524357,-87.7066499,490,Troy St & Elston Ave,86HJW7WV%2B38,Excess,15,60618
+7,"W Addison St & N Talman Ave, Chicago, IL",13,41.94663583,-87.69461476,491,Talman Ave & Addison St,86HJW8W4%2BM5,Excess,15,60618
+6.8,"W Addison St & N Leavitt St, Chicago, IL",10,41.946655,-87.683359,492,Leavitt St & Addison St,86HJW8W8%2BMM,Excess,15,60618
+6.3,"N Western Ave & W Roscoe St, Chicago, IL",2,41.943034,-87.687288,493,Western Ave & Roscoe St,86HJW8V7%2B63,Deficit,11,60618
+9.6,"N Kedzie Ave & W Bryn Mawr Ave, Chicago, IL",1,41.98222976,-87.70888656,494,Kedzie Ave & Bryn Mawr Ave,86HJX7JR%2BVC,Deficit,15,60625
+8.7,"W Montrose Ave & N Keystone Ave, Chicago, IL",10,41.96110802,-87.7289701,495,Keystone Ave & Montrose Ave,86HJX76C%2BCC,Excess,11,60630
+7.5,"W Belmont Ave & N Avers Ave, Chicago, IL",1,41.939408,-87.723574,496,Avers Ave & Belmont Ave,86HJW7QG%2BQH,Deficit,11,60618
+6.9,"W Belmont Ave & N Kimball Ave, Chicago, IL",2,41.939398,-87.711561,497,Kimball Ave & Belmont Ave,86HJW7QQ%2BQ9,Deficit,15,60618
+6.3,"W Fletcher St & N California Ave, Chicago, IL",15,41.93842879,-87.69800776,498,California Ave & Fletcher St,86HJW8Q2%2B9Q,Excess,19,60618
+7.2,"Kosciuszko (Thadeuz) Park, 2732 N Avers Ave, Chicago, IL",2,41.93058537,-87.72377736,499,Kosciuszko Park,86HJW7JG%2B6F,Deficit,15,60647
+7.2,"N Elbridge Ave & Central Park Ave, Chicago, IL",2,41.93533728,-87.71688929,500,Central Park Ave & Elbridge Ave,86HJW7PM%2B46,Deficit,15,60618
+6,"N Richmond St & W Diversey Ave, Chicago, IL",11,41.93190197,-87.70119513,501,Richmond St & Diversey Ave,86HJW7JX%2BQG,Excess,15,60647
+5.8,"W Altgeld St & N California Ave, Chicago, IL",5,41.92669,-87.697668,502,California Ave & Altgeld St,86HJW8G2%2BMW,Deficit,15,60647
+6.5,"N St Louis Ave & W Fullerton Ave, Chicago, IL",4,41.9248156,-87.71449506,503,St. Louis Ave & Fullerton Ave,86HJW7FP%2BW6,Deficit,15,60647
+5.3,"N Campbell Ave & W Fullerton Ave, Chicago, IL",4,41.92463247,-87.68930701,504,Campbell Ave & Fullerton Ave,86HJW8F6%2BV7,Deficit,15,60647
+4.9,"N Winchester Ave & N Elston Ct, Chicago, IL",8,41.92409085,-87.67646008,505,Winchester Ave & Elston Ave,86HJW8FF%2BJC,Sufficient Quantity,15,60614
+6.5,"N Spaulding Ave & W Armitage Ave, Chicago, IL",15,41.91710804,-87.71022096,506,Spaulding Ave & Armitage Ave,86HJW78Q%2BRW,Excess,15,60647
+5.8,"N Humboldt Blvd & W Armitage Ave, Chicago, IL",9,41.91751339,-87.70180896,507,Humboldt Blvd & Armitage Ave,86HJW79X%2B27,Sufficient Quantity,19,60647
+7.5,"N Central Park Ave, Chicago, IL",7,41.90965688,-87.71663195,508,Central Park Ave & North Ave,86HJW75M%2BV8,Sufficient Quantity,15,60640
+5.9,"N Troy St & W North Ave, Chicago, IL",4,41.9097693,-87.70528049,509,Troy St & North Ave,86HJW75V%2BWV,Deficit,15,60647
+5.4,"N Spaulding Ave & W Division St, Chicago, IL",5,41.90270659,-87.70921957,510,Spaulding Ave & Division St,86HJW73R%2B38,Sufficient Quantity,11,60651
+6.3,"W Bloomingdale Ave & N Albany Ave, Chicago, IL",14,41.91402671,-87.70512646,511,Albany Ave & Bloomingdale Ave,86HJW77V%2BJW,Excess,15,60647
+11.9,"N Ridge Blvd & Howard St, Evanston, IL",0,42.019276,-87.68452,514,Ridge Blvd & Howard St,86JJ2898%2BP5,Deficit,11,60645
+13.9,"N Paulina St & Howard St, Chicago, IL",14,42.019159,-87.673573,515,Paulina St & Howard St,86JJ289G%2BMH,Excess,19,60626
+13.9,"W Jarvis Ave & N Clark St, Chicago, IL",1,42.015963,-87.675005,517,Clark St & Jarvis Ave,86JJ288F%2B9X,Deficit,11,60626
+5,"N Conservatory Dr & W Lake St, Chicago, IL",2,41.885502,-87.716866,518,Conservatory Dr & Lake St,86HJV7PM%2B67,Deficit,11,60624
+14.2,"N Wolcott Ave & W Fargo Ave, Chicago, IL",3,42.016977,-87.677725,519,Wolcott Ave & Fargo Ave,86JJ288C%2BQW,Deficit,11,60626
+13.1,"W Jarvis Ave & N Greenview Ave, Chicago, IL",12,42.015962,-87.66857,520,Greenview Ave & Jarvis Ave,86JJ288J%2B9H,Excess,19,60626
+13.5,"W Howard St & N Bosworth Ave, Chicago, IL",5,42.019537,-87.669563,522,Bosworth Ave & Howard St,86JJ289J%2BR5,Sufficient Quantity,11,60626
+13.7,"N Rogers Ave & N Eastlake Terrace, Chicago, IL",5,42.02088728,-87.66505793,523,Eastlake Ter & Rogers Ave,86JJ28CM%2B9X,Deficit,15,60626
+9,"Chicago Ave & N Austin Blvd, Oak Park, IL",0,41.894887,-87.774704,524,Austin Blvd & Chicago Ave,86HJV6VG%2BX4,Deficit,7,60644
+12.8,"N Glenwood Ave & Touhy Ave, Chicago, IL",11,42.012701,-87.666058,525,Glenwood Ave & Touhy Ave,86JJ287M%2B3H,Excess,15,60626
+13.8,"N Oakley Ave & Touhy Ave, Chicago, IL",3,42.012342,-87.688243,526,Oakley Ave & Touhy Ave,86JJ2866%2BWP,Deficit,11,60645
+11.6,"N Western Ave & W Howard St, Evanston, IL",12,42.018901,-87.690048,527,Western Ave & Howard St,86JJ2895%2BHX,Excess,15,60645
+5.5,"N Pulaski Rd & W Lake St, Chicago, IL",11,41.885409,-87.726491,528,Pulaski Rd & Lake St,86HJV7PF%2B5C,Excess,11,60624
+6.5,"N Cicero Ave & W Lake St, Chicago, IL",7,41.886841,-87.745261,529,Cicero Ave & Lake St,86HJV7P3%2BPV,Excess,11,60644
+7.3,"W Kinzie St & N Laramie Ave, Chicago, IL",10,41.887832,-87.755527,530,Laramie Ave & Kinzie St,86HJV6QV%2B4Q,Excess,11,60644
+7.8,"N Central Ave & W Lake St, Chicago, IL",10,41.887664,-87.765469,531,Central Ave & Lake St,86HJV6QM%2B3R,Excess,11,60637
+8.3,"Lake St & N Austin Blvd, Oak Park, IL",10,41.88794379,-87.77427346,532,Austin Blvd & Lake St,86HJV6QG%2B57,Excess,11,60644
+4.4,"W 5th Ave & Central Park Ave, Chicago, IL",11,41.875679,-87.71547,533,Central Park Blvd & 5th Ave,86HJV7GM%2B7R,Excess,11,60624
+5.3,"W Madison St & S Karlov Ave, Chicago, IL",11,41.88085,-87.727907,534,Karlov Ave & Madison St,86HJV7JC%2B8R,Excess,11,60624
+4.8,"W Congress Pkwy & S Pulaski Rd, Chicago, IL",8,41.87441021,-87.72609159,535,Pulaski Rd & Congress Pkwy,86HJV7FF%2BQH,Excess,11,60624
+6,"N Kostner Ave & W Lake St, Chicago, IL",0,41.885928,-87.73541,536,Kostner Ave & Lake St,86HJV7P7%2B9R,Deficit,11,60624
+14.7,"Madison St & Kenton Ave, Skokie, IL",9,41.880708,-87.741018,537,Kenton Ave & Madison St,86HJV7J5%2B7H,Excess,11,60076
+5.9,"Cicero Ave & Flournoy St, Chicago, IL",3,41.872131,-87.746619,538,Cicero Ave & Flournoy St,86HJV7C3%2BV9,Deficit,11,60644
+6.2,"S Cicero Ave & W Quincy St, Chicago, IL",11,41.877613,-87.745405,539,Cicero Ave & Quincy St,86HJV7H3%2B2R,Excess,11,60644
+6.9,"W Madison St & N Laramie Ave, Chicago, IL",5,41.880207,-87.755337,540,Laramie Ave & Madison St,86HJV6JV%2B3V,Sufficient Quantity,11,60644
+7,"S Central Ave & W Harrison St, Chicago, IL",8,41.872993,-87.764499,541,Central Ave & Harrison St,86HJV6FP%2B56,Excess,11,60644
+7.3,"W Madison St & N Central Ave, Chicago, IL",0,41.880121,-87.763238,542,Central Ave & Madison St,86HJV6JP%2B2P,Deficit,11,60644
+6.6,"S Laramie Ave & W Gladys Ave, Chicago, IL",0,41.875806,-87.755285,543,Laramie Ave & Gladys Ave,86HJV6GV%2B8V,Deficit,11,60644
+7.9,"N Austin Blvd & Madison St, Oak Park, IL",0,41.880281,-87.774453,544,Austin Blvd & Madison St,86HJV6JG%2B46,Deficit,11,60644
+5.6,"S Kostner Ave & W Adams St, Chicago, IL",3,41.877917,-87.735737,545,Kostner Ave & Adams St,86HJV7H7%2B5P,Deficit,11,60624
+4,"W Pershing Rd & S Damen Ave, Chicago, IL",6,41.823192,-87.676597,546,Damen Ave & Pershing Rd,86HJR8FF%2B79,Sufficient Quantity,11,60609
+3.5,"W Pershing Rd & Ashland Ave, Chicago, IL",9,41.823465,-87.665577,547,Ashland Ave & Pershing Rd,86HJR8FM%2B9Q,Excess,11,60609
+3.2,"W Pershing Rd & S Morgan St, Chicago, IL",7,41.823613,-87.650931,548,Morgan St & Pershing Rd,86HJR8FX%2BCJ,Excess,7,60609
+4.2,"W 44th St & S Marshfield Ave, Chicago, IL",5,41.813996,-87.666589,549,Marshfield Ave & 44th St,86HJR87M%2BH9,Sufficient Quantity,11,60609
+8.3,"N Central Ave & W Chicago Ave, Chicago, IL",8,41.894958,-87.764902,550,Central Ave & Chicago Ave,86HJV6VP%2BX2,Excess,11,60644
+5.3,"S Hoyne Ave & W 47th St, Chicago, IL",1,41.808227,-87.67718,551,Hoyne Ave & 47th St,86HJR85F%2B74,Deficit,11,60609
+4.5,"S McDowell Ave & Ashland Ave, Chicago, IL",11,41.80887,-87.66454,552,Ashland Ave & McDowell Ave,86HJR85P%2BG5,Excess,11,60609
+4.5,"W 47th St & S Elizabeth St, Chicago, IL",7,41.80839,-87.656526,553,Elizabeth St & 47th St,86HJR85V%2B99,Excess,11,60609
+5.5,"W 51st St & S Damen Ave, Chicago, IL",5,41.800908,-87.674684,554,Damen Ave & 51st St,86HJR82G%2B94,Excess,7,60609
+4.9,"W 50th St & Ashland Ave, Chicago, IL",7,41.803023,-87.664699,555,Ashland Ave & 50th St,86HJR83P%2B64,Excess,11,60609
+5.7,"S Throop St & W 52nd St, Chicago, IL",7,41.799659,-87.657195,556,Throop St & 52nd St,86HJQ8XV%2BV4,Excess,7,60609
+6.4,"W Garfield Blvd & S Seeley Ave, Chicago, IL",5,41.794087,-87.675478,557,Seeley Ave & Garfield Blvd,86HJQ8VF%2BJR,Sufficient Quantity,11,60609
+5.5,"W Garfield Blvd & Ashland Ave, Chicago, IL",10,41.792822,-87.664429,558,Ashland Ave & Garfield Blvd,86HJQ8VP%2B46,Excess,11,60609
+5.5,"W Garfield Blvd & S Racine Ave, Chicago, IL",2,41.794228,-87.655073,559,Racine Ave & Garfield Blvd,86HJQ8VV%2BMX,Deficit,11,60636
+6.1,"S Marshfield Ave & W 59th St, Chicago, IL",9,41.786833,-87.666215,560,Marshfield Ave & 59th St,86HJQ8PM%2BPG,Excess,11,60636
+6.5,"S Damen Ave & W 59th St, Chicago, IL",1,41.78586107,-87.67414391,561,Damen Ave & 59th St,86HJQ8PG%2B88,Deficit,11,60636
+6.2,"S Racine Ave & W 61st St, Chicago, IL",6,41.783189,-87.654372,562,Racine Ave & 61st St,86HJQ8MW%2B77,Sufficient Quantity,11,60636
+6.5,"W 63rd St & Ashland Ave, Chicago, IL",9,41.779374,-87.664843,563,Ashland Ave & 63rd St,86HJQ8HP%2BP3,Excess,11,60636
+6.7,"S Racine Ave & W 65th St, Chicago, IL",9,41.775393,-87.654308,564,Racine Ave & 65th St,86HJQ8GW%2B57,Excess,11,60636
+6.9,"W 66th St & Ashland Ave, Chicago, IL",5,41.774074,-87.663815,565,Ashland Ave & 66th St,86HJQ8FP%2BJF,Excess,7,60636
+8.4,"W 74th St & S Damen Ave, Chicago, IL",4,41.75927404,-87.67363429,566,Damen Ave & 74th St,86HJQ85G%2BPG,Deficit,11,60636
+8.7,"S May St & W 69th St, Chicago, IL",3,41.768938,-87.652934,567,May St & 69th St,86HJQ89W%2BHR,Deficit,11,60621
+8.6,"S Vincennes Ave & W 75th St, Chicago, IL",2,41.75797,-87.63121,568,Vincennes Ave & 75th St,86HJQ959%2B5G,Deficit,7,60620
+9.4,"South Chicago & 75th Street/Woodlawn, Chicago, IL",6,41.75916,-87.595751,569,Woodlawn Ave & 75th St,86HJQC53%2BMM,Sufficient Quantity,11,60619
+9.2,"E 75th St & S Evans Ave, Chicago, IL",5,41.75849,-87.60641,570,Evans Ave & 75th St,86HJQ95V%2B9C,Excess,7,60619
+8.9,"E 75th St & S Vernon Ave, Chicago, IL",0,41.758361,-87.614138,571,Vernon Ave & 75th St,86HJQ95P%2B88,Deficit,11,60619
+8.4,"W 76th St & S State St, Chicago, IL",11,41.756971,-87.624621,572,State St & 76th St,86HJQ94G%2BQ5,Excess,11,60619
+8.8,"S State St & E 79th St, Chicago, IL",10,41.750794,-87.624424,573,State St & 79th St,86HJQ92G%2B86,Excess,11,60619
+9.4,"S Vernon Ave & E 79th St, Chicago, IL",4,41.75094,-87.61379,574,Vernon Ave & 79th St,86HJQ92P%2B9F,Deficit,11,60619
+9.5,"E 78th St & Cottage Grv Ave, Chicago, IL",7,41.753174,-87.605026,575,Cottage Grove Ave & 78th St,86HJQ93V%2B7X,Excess,11,60619
+10.1,"S Greenwood Ave & E 79th St, Chicago, IL",5,41.751294,-87.597552,576,Greenwood Ave & 79th St,86HJQC22%2BGX,Sufficient Quantity,11,60619
+10.1,"S Stony Is Ave & S South Chicago Ave, Chicago, IL",1,41.751173,-87.585337,577,Stony Island Ave & South Chicago Ave,86HJQC27%2BFV,Deficit,11,60617
+10.3,"S Bennett Ave & E 79th St, Chicago, IL",2,41.751785,-87.578496,578,Bennett Ave & 79th St,86HJQC2C%2BPJ,Deficit,11,60649
+10.9,"S Phillips Ave & E 79th St, Chicago, IL",1,41.75182,-87.565211,579,Phillips Ave & 79th St,86HJQC2M%2BPW,Deficit,11,60617
+10.8,"S Exchange Ave & E 79th St, Chicago, IL",1,41.751731,-87.552812,580,Exchange Ave & 79th St,86HJQC2W%2BMV,Deficit,11,60649
+11.9,"E 83rd St & S Commercial Ave, Chicago, IL",4,41.744615,-87.551208,581,Commercial Ave & 83rd St,86HJPCVX%2BRG,Deficit,11,60617
+11.4,"S Phillips Ave & E 83rd St, Chicago, IL",1,41.744531,-87.56506,582,Phillips Ave & 83rd St,86HJPCVM%2BRX,Deficit,11,60617
+11.1,"S Stony Is Ave & E 82nd St, Chicago, IL",6,41.746559,-87.586005,583,Stony Island Ave & 82nd St,86HJPCW7%2BJH,Sufficient Quantity,11,60617
+10.6,"E 83rd St & S Ellis Ave, Chicago, IL",2,41.744123,-87.599034,584,Ellis Ave & 83rd St,86HJPCV2%2BJ9,Deficit,11,60619
+10.3,"S Cottage Grove Ave & E 83rd St, Chicago, IL",6,41.743441,-87.604836,585,Cottage Grove Ave & 83rd St,86HJP9VW%2B93,Sufficient Quantity,11,60619
+9.8,"S Martin Luther King Dr & E 83rd St, Chicago, IL",11,41.743116,-87.6148,586,MLK Jr Dr & 83rd St,86HJP9VP%2B63,Excess,11,60619
+9.4,"E 83rd St & S Wabash Ave, Chicago, IL",8,41.74384407,-87.62276888,587,Wabash Ave & 83rd St,86HJP9VG%2BGV,Excess,11,60619
+11,"E 83rd St & S South Chicago Ave, Chicago, IL",10,41.743921,-87.575225,588,South Chicago Ave & 83rd St,86HJPCVF%2BHW,Excess,11,60617
+9.3,"W Cuyler Ave & N Milwaukee Ave, Chicago, IL",4,41.954468,-87.749594,589,Milwaukee Ave & Cuyler Ave,86HJX732%2BQ5,Deficit,11,60641
+8.6,"N Kilbourn Ave & W Irving Park Rd, Chicago, IL",4,41.953733,-87.740569,590,Kilbourn Ave & Irving Park Rd,86HJX735%2BFQ,Deficit,11,60641
+9.2,"N Kilbourn Ave & N Milwaukee Ave, Chicago, IL",8,41.94707089,-87.74000824,591,Kilbourn Ave & Milwaukee Ave,86HJW7W5%2BRX,Sufficient Quantity,15,60641
+9,"N Knox Ave & W Montrose Ave, Chicago, IL",8,41.960631,-87.745359,592,Knox Ave & Montrose Ave,86HJX763%2B7V,Excess,11,60641
+5.4,"W 59th St & S Halsted St, Chicago, IL",8,41.787539,-87.644874,593,Halsted St & 59th St,86HJQ9Q4%2B23,Excess,11,60621
+5.1,"W 48th Pl & S Western Blvd, Chicago, IL",6,41.805661,-87.683392,594,Western Blvd & 48th Pl,86HJR848%2B7J,Sufficient Quantity,11,60609
+9.9,"E 87th St & S Wabash Ave, Chicago, IL",6,41.73621877,-87.6226455,595,Wabash Ave & 87th St,86HJP9PG%2BFW,Sufficient Quantity,11,60619
+14,"Benson Ave & Church St, Evanston, IL",8,42.048214,-87.683485,596,Benson Ave & Church St,86JJ28X8%2B7J,Sufficient Quantity,15,60201
+1.9,"W Washington St, Chicago, IL",11,42.032562,-87.679101,597,Chicago Ave & Washington St,86JJ28MC%2B29,Excess,15,60606
+17.4,"Austin St & Elmwood Ave, Evanston, IL",1,42.025784,-87.684107,598,Elmwood Ave & Austin St,86JJ28G8%2B89,Deficit,15,60202
+17.4,"Valli Produce, 1910 Dempster St, Evanston, IL",8,42.039742,-87.699413,599,Valli Produce - Evanston Plaza,86JJ28Q2%2BV6,Sufficient Quantity,15,60202
+14.9,"Dodge Ave & Church St, Evanston, IL",5,42.048308,-87.698224,600,Dodge Ave & Church St,86JJ28X2%2B8P,Deficit,15,60201
+15.9,"Central St., 1826 Central St, Evanston, IL",15,42.063598,-87.69873,601,Central St Metra,86JJ3872%2BCG,Excess,15,60201
+16.4,"Central St & Girard Ave, Evanston, IL",6,42.064313,-87.686152,602,Central St & Girard Ave,86JJ3877%2BPG,Deficit,15,60201
+15.7,"Chicago Ave & Sheridan Rd, Evanston, IL",7,42.050491,-87.677821,603,Chicago Ave & Sheridan Rd,86JJ382C%2B5V,Sufficient Quantity,15,60208
+16.8,"Noyes/Haven/Sheridan Lot, Evanston, IL",11,42.058239,-87.677432,604,Sheridan Rd & Noyes St (NU),86JJ385F%2B72,Excess,15,60208
+16.3,"University Library, 1970 Campus Dr, Evanston, IL",9,42.052939,-87.673447,605,University Library (NU),86JJ383G%2B5J,Excess,15,60201
+7.2,"N Keystone Ave & W Fullerton Ave, Chicago, IL",11,41.92459,-87.72785,619,Keystone Ave & Fullerton Ave,86HJW7FC%2BRV,Excess,11,60639
+3.1,"NEXT Apartments, 347 W Chestnut St, Chicago, IL",7,41.898203,-87.637536,620,Orleans St & Chestnut St (NEXT Apts),86HJV9X6%2B7X,Sufficient Quantity,15,60610
+1.6,"N Aberdeen St & W Randolph St, Chicago, IL",3,41.884114,-87.654264,621,Aberdeen St & Randolph St,86HJV8MW%2BJ7,Deficit,15,60607
+4.8,"W Cortez St & N California Ave, Chicago, IL",11,41.900363,-87.696704,622,California Ave & Cortez St,86HJW823%2B48,Excess,15,60622
+1.6,"Michigan Ave & E 8th St, Chicago, IL",11,41.872773,-87.623981,623,Michigan Ave & 8th St,86HJV9FG%2B4C,Deficit,43,60605
+1.8,"W Van Buren St & S Dearborn St, Chicago, IL",10,41.876268,-87.629155,624,Dearborn St & Van Buren St,86HJV9GC%2BG8,Excess,15,60604
+17.1,"Main St & Dodge Ave, Evanston, IL",12,42.03463185,-87.6991877,625,Dodge Ave & Main St,86JJ28M2%2BV8,Excess,15,60202
+0.8,"Roosevelt Rd & S Delano Ct, Chicago, IL",11,41.867491,-87.63219,626,Delano Ct & Roosevelt Rd,86HJV989%2BX4,Excess,19,60605
+2.7,"W Huron St & N La Salle St, Chicago, IL",11,41.894877,-87.632326,627,LaSalle Dr & Huron St,86HJV9V9%2BX3,Excess,19,60654
+3.9,"Walsh (John) Park, 1722 N Ashland Ave, Chicago, IL",5,41.91461,-87.667968,628,Walsh Park,86HJW87J%2BRR,Deficit,23,60622
+9.4,"W Montrose Ave & N Kildare Ave, Chicago, IL",3,41.96108,-87.73569,630,Kildare Ave & Montrose Ave,86HJX767%2BCP,Deficit,15,60630
+,"Malcolm X College, 1900 W Jackson Blvd, Chicago, IL",19,41.877618,-87.673895,631,Malcolm X College Vaccination Site,86HJV8HG%2B2C,Excess,19,60612
+6.9,"W Newport Ave & N Clark St, Chicago, IL",11,41.94454,-87.654678,632,Clark St & Newport St,86HJW8VW%2BR4,Excess,15,60657
+3.4,"N Fairbanks Ct & E Superior St, Chicago, IL",7,41.895748,-87.620104,635,Fairbanks St & Superior St,86HJV9WH%2B7X,Excess,11,60611
+2.2,"N Orleans St & W Hubbard St, Chicago, IL",6,41.890028,-87.636618,636,Orleans St & Hubbard St,86HJV9R7%2B29,Sufficient Quantity,11,60654
+3.4,"N Wood St & W Chicago Ave, Chicago, IL",2,41.895634,-87.672069,637,Wood St & Chicago Ave,86HJV8WH%2B75,Deficit,15,60622
+1.2,"Jackson Blvd & S Clinton St, Chicago, IL",12,41.87831661,-87.64098108,638,Clinton St & Jackson Blvd,86HJV9H5%2B8J,Deficit,31,60606
+9.7,"Divvy, Lakefront Trail & Wilson Ave, Chicago, IL",3,41.965845,-87.645361,639,Lakefront Trail & Wilson Ave,86HJX983%2B8V,Deficit,15,60640
+7.5,"N Elston Ave & N Bernard St, Chicago, IL",11,41.949923,-87.713949,640,Bernard St & Elston Ave,86HJW7XP%2BXC,Excess,11,60618
+6.6,"W Bloomingdale Ave & Central Park Ave, Chicago, IL",3,41.914166,-87.716755,641,Central Park Ave & Bloomingdale Ave,86HJW77M%2BM7,Deficit,11,60647
+7.8,"N Latrobe Ave & W Chicago Ave, Chicago, IL",0,41.894745,-87.756895,642,Latrobe Ave & Chicago Ave,86HJV6VV%2BV6,Deficit,7,60644
+4.2,"Smith Park, Chicago, IL",6,41.892048,-87.689397,643,Smith Park,86HJV8R6%2BR6,Deficit,15,60612
+2.2,"S Western Ave & W Fillmore St, Chicago, IL",0,41.868563,-87.686234,644,Western Ave & Fillmore St,86HJV897%2BCG,Deficit,11,60612
+3.5,"W 37th St & S Damen Ave, Chicago, IL",5,41.826712,-87.683144,645,Archer (Damen) Ave & 37th St,86HJR8G8%2BMP,Sufficient Quantity,11,60609
+6.1,"E 54th St & S State St, Chicago, IL",3,41.796642,-87.625923,646,State St & 54th St,86HJQ9WF%2BMJ,Deficit,11,60609
+6,"S Elizabeth St & W 59th St, Chicago, IL",4,41.78969688,-87.6546979,647,Elizabeth St & 59th St,86HJQ8QW%2BV4,Excess,7,60636
+6.3,"S Carpenter St & W 63rd St, Chicago, IL",3,41.77987,-87.650919,648,Carpenter St & 63rd St,86HJQ8HX%2BWJ,Deficit,7,60621
+7,"S Stewart Ave & W 63rd St, Chicago, IL",2,41.779835,-87.634774,649,Stewart Ave & 63rd St,86HJQ9H8%2BW3,Deficit,11,60621
+7.8,"S Eggleston Ave & W 69th St, Chicago, IL",0,41.768898,-87.635876,650,Eggleston Ave & 69th St,86HJQ997%2BHJ,Deficit,11,60621
+8.5,"S Rhodes Ave & E 71st St, Chicago, IL",6,41.766,-87.611726,652,Rhodes Ave & 71st St,86HJQ98Q%2B98,Sufficient Quantity,11,60619
+9.5,"E Hayes Dr & S Cornell Dr, Chicago, IL",10,41.780595,-87.584846,653,Cornell Dr & Hayes Dr,86HJQCJ8%2B63,Excess,11,60637
+1.7,"N Racine Ave & W Washington Blvd, Chicago, IL",5,41.883073,-87.656952,654,Racine Ave & Washington Blvd,86HJV8MV%2B66,Sufficient Quantity,11,60607
+9.1,"N Hoyne Ave & W Balmoral Ave, Chicago, IL",14,41.979851,-87.681932,655,Hoyne Ave & Balmoral Ave,86HJX8H9%2BW6,Excess,15,60625
+3,"Divvy, Damen Ave & Walnut (Lake) St, Chicago, IL",2,41.885951,-87.677009,656,Damen Ave & Walnut (Lake) St,86HJV8PF%2B95,Deficit,15,60612
+3.6,"N Wood St & W Augusta Blvd, Chicago, IL",1,41.899181,-87.6722,657,Wood St & Augusta Blvd,86HJV8XH%2BM4,Deficit,15,60622
+4.4,"N Leavitt St & W Division St, Chicago, IL",11,41.902997,-87.683825,658,Leavitt St & Division St,86HJW838%2B5F,Excess,15,60622
+3.8,"N Leavitt St & W Chicago Ave, Chicago, IL",9,41.895501,-87.682017,659,Leavitt St & Chicago Ave,86HJV8W9%2B65,Excess,15,60622
+11.9,"W Columbia Ave & N Sheridan Rd, Chicago, IL",12,42.004583,-87.661406,660,Sheridan Rd & Columbia Ave,86JJ283Q%2BRC,Excess,15,60626
+16.7,"City of Evanston Civic Center, 2100 Ridge Ave, Evanston, IL",10,42.057044,-87.686554,661,Evanston Civic Center,86JJ3847%2BR9,Excess,15,60201
+13.1,"Dodge Ave & Mulford St, Evanston, IL",13,42.023463,-87.699595,662,Dodge Ave & Mulford St,86JJ28F2%2B95,Excess,15,60202
+15.7,"Central St & Lincolnwood Dr, Evanston, IL",9,42.064854,-87.715297,663,Lincolnwood Dr & Central St,86JJ377M%2BWV,Excess,15,60201
+6.1,"N Leavitt St & W Belmont Ave, Chicago, IL",6,41.939354,-87.683282,664,Leavitt St & Belmont Ave,86HJW8Q8%2BPM,Deficit,15,60618
+11,"South Chicago & Elliott, Chicago, IL",3,41.747363,-87.580046,665,South Chicago Ave & Elliot Ave,86HJPCW9%2BWX,Deficit,7,60617
+3.5,"N Cherry Ave & W Blackhawk St, Chicago, IL",0,41.907221,-87.655618,666,Cherry Ave & Blackhawk St,86HJW84V%2BVQ,Deficit,15,60642
+2.3,"N Franklin St & W Illinois St, Chicago, IL",3,41.89102331,-87.63547987,672,Franklin St & Illinois St,86HJV9R7%2BCR,Deficit,11,60654
+6.3,"Lincoln Park Conservatory, 2391 N Stockton Dr, Chicago, IL",30,41.92393131,-87.63582453,673,Lincoln Park Conservatory,86HJW9F7%2BHM,Excess,31,60614
+8,"Michigan Ave & E 71st St, Chicago, IL",1,41.765286,-87.621748,674,Michigan Ave & 71st St,86HJQ98H%2B48,Deficit,7,60619
+9.8,"S Stewart Ave & W 83rd St, Chicago, IL",4,41.743717,-87.634088,677,Stewart Ave & 83rd St,86HJP9V8%2BF9,Deficit,15,60620
+7.2,"W 73rd St & S Halsted St, Chicago, IL",15,41.76160544,-87.64416098,678,Halsted St & 73rd St,86HJQ964%2BJ8,Excess,15,60621
+7.9,"W 74th St & S Ashland Ave, Chicago, IL",4,41.75923602,-87.66347408,679,Ashland Ave & 74th St,86HJQ85P%2BMJ,Deficit,15,60636
+7.8,"W 78th St & S Halsted St, Chicago, IL",4,41.75248701,-87.64390216,681,Halsted St & 78th St,86HJQ924%2BXC,Deficit,15,60620
+11.1,"S Eberhart Ave & E 91st St, Chicago, IL",2,41.72928516,-87.61103153,682,Eberhart Ave & 91st St,86HJP9HQ%2BPH,Deficit,15,60619
+8.5,"W 78th St & Ashland Ave, Chicago, IL",15,41.75220485,-87.66369939,683,Ashland Ave & 78th St,86HJQ82P%2BVG,Excess,15,60620
+11.8,"S Prospect Square & W 91st St, Chicago, IL",10,41.7282338,-87.6675239,684,Prospect Sq & 91st St,86HJP8HJ%2B7X,Excess,15,60620
+10.7,"W 86th St & S Summit Ave, Chicago, IL",1,41.73784848,-87.64489979,685,Summit Ave & 86th St,86HJP9Q4%2B42,Deficit,15,60620
+11.9,"E 87th St & S East End Ave, Chicago, IL",4,41.73681521,-87.58280128,686,East End Ave & 87th St,86HJPCP8%2BPV,Deficit,15,60617
+9.4,"W 84th St & S Loomis Blvd, Chicago, IL",5,41.74148653,-87.65841007,687,Loomis Blvd & 84th St,86HJP8RR%2BHJ,Deficit,15,60620
+10.6,"W 92nd St & S Elizabeth St, Chicago, IL",7,41.72679896,-87.6542902,689,Elizabeth St & 92nd St,86HJP8GW%2BP7,Sufficient Quantity,15,60620
+10.8,"S State St & W 95th St, Chicago, IL",15,41.7218499,-87.6228544,690,State St & 95th St,86HJP9CG%2BPV,Excess,15,60628
+11.8,"S Eggleston Ave & W 92nd St, Chicago, IL",12,41.72757566,-87.63482809,691,Eggleston Ave & 92nd St,86HJP9H8%2B23,Excess,15,60620
+13.1,"S Marquette Ave & E 89th St, Chicago, IL",11,41.73366879,-87.55834222,692,Marquette Ave & 89th St,86HJPCMR%2BFM,Excess,15,60617
+12.5,"E 87th St & S Baltimore Ave, Chicago, IL",10,41.7373356,-87.54851461,693,Baltimore Ave & 87th St,86HJPFP2%2BWH,Excess,15,60617
+12.4,"S Houston Ave & E 92nd St, Chicago, IL",3,41.72820422,-87.54970014,694,Houston Ave & 92nd St,86HJPFH2%2B74,Deficit,15,60617
+12.5,"E 103rd St & S Dauphin Ave, Chicago, IL",14,41.70725037,-87.60766268,695,Dauphin Ave & 103rd St,86HJP94R%2BWW,Excess,15,60628
+12,"E 103rd St & S Indiana Ave, Chicago, IL",10,41.70717027,-87.61847198,696,Indiana Ave & 103rd St,86HJP94J%2BVJ,Excess,15,60628
+13.7,"S Oglesby Ave & E 100th St, Chicago, IL",9,41.71339748,-87.56584168,697,Oglesby Ave & 100th St,86HJPC7M%2B9M,Excess,15,60617
+13.4,"E 111th Pl & S Cottage Grove Ave, Chicago, IL",1,41.69170976,-87.61000156,698,Cottage Grove Ave & 111th Pl,86HJM9RQ%2BMX,Deficit,15,60628
+12.8,"E 107th St & S Vernon Ave, Chicago, IL",3,41.70012138,-87.61225998,699,Vernon Ave & 107th St,86HJP92Q%2B23,Deficit,15,60628
+12,"W 96th St & S Halsted St, Chicago, IL",8,41.71971218,-87.64301956,700,Halsted St & 96th St,86HJP994%2BVQ,Sufficient Quantity,15,60628
+13.7,"E 95th St & S Constance Ave, Chicago, IL",15,41.72229074,-87.57896841,701,Constance Ave & 95th St,86HJPCCC%2BWC,Excess,15,60617
+11.7,"S Greenwood Ave & E 91st St, Chicago, IL",11,41.72826427,-87.59729862,702,Greenwood Ave & 91st St,86HJPCH3%2B83,Excess,15,60619
+,"E 97th St & S Greenwood Ave, Chicago, IL",1,41.71870316,-87.59703577,703,Greenwood Ave & 97th St,86HJPC93%2BF5,Deficit,15,60628
+18.7,"Avenue O & 134th Street, Chicago, IL",14,41.6518678,-87.53967136,704,Avenue O & 134th St,86HJMF26%2BP4,Excess,15,60633
+13.8,"S Stony Is Ave & E 90th St, Chicago, IL",8,41.73139494,-87.58574367,705,Stony Island Ave & 90th St,86HJPCJ7%2BHP,Sufficient Quantity,15,60617
+11,"E 87th St & S Dauphin Ave, Chicago, IL",7,41.73655902,-87.60125756,706,Dauphin Ave & 87th St,86HJP9PX%2BJF,Sufficient Quantity,15,60619
+14.1,"E 106th St & S Torrence Ave, Chicago, IL",7,41.70280085,-87.55972624,707,Torrence Ave & 106th St,86HJPC3R%2B44,Sufficient Quantity,15,60617
+11.6,"E 87th St & S Clyde Ave, Chicago, IL",8,41.73715146,-87.57274032,708,Clyde Ave & 87th St,86HJPCPG%2BVW,Sufficient Quantity,15,60617
+13.3,"E 114th St & S Michigan Ave, Chicago, IL",15,41.6870148,-87.62105227,709,Michigan Ave & 114th St,86HJM9PH%2BRH,Excess,15,60628
+14.7,"Burnham Greenway Trail System - Red Paved Trl & E 105th St, Chicago, IL",5,41.70457509,-87.52823174,710,Burnham Greenway & 105th St,86HJPF3C%2BRP,Sufficient Quantity,11,60617
+13.6,"W 111th St & S Halsted St, Chicago, IL",2,41.69226256,-87.64261186,711,Halsted St & 111th St,86HJM9R4%2BWX,Deficit,15,60628
+12.2,"S Wentworth Ave & W 104th St, Chicago, IL",4,41.705308,-87.62921691,712,Wentworth Ave & 104th St,86HJP94C%2B48,Deficit,15,60628
+14.3,"W 115th St & Major Taylor Trail, Chicago, IL",8,41.6849316,-87.64528871,713,Major Taylor Trail & 115th St,86HJM9M3%2BXV,Sufficient Quantity,15,60643
+14.4,"W 123rd St & S State St, Chicago, IL",13,41.67064384,-87.62258649,714,State St & 123rd St,86HJM9CG%2B7X,Excess,15,60628
+15.5,"W 124th St & Major Taylor Trail, Chicago, IL",10,41.66869635,-87.63711333,715,Major Taylor Trail & 124th St,86HJM997%2BF5,Excess,15,60628
+18.2,"S Eberhart Ave & E 131st St, Chicago, IL",1,41.65841315,-87.6107109,716,Eberhart Ave & 131st St,86HJM95Q%2B9P,Deficit,15,60827
+15.8,"Big Marsh Park, 11559 S Stony Is Ave, Chicago, IL",14,41.68587706,-87.57382393,717,Big Marsh Park,86HJMCPG%2B9F,Excess,15,60633
+15.7,"Divvy, Ewing Ave & Burnham Greenway, Chicago, IL",0,41.71274876,-87.53481388,718,Ewing Ave & Burnham Greenway,86HJPF78%2B33,Deficit,11,60617
+16.7,"Avenue O & 118th Street, Chicago, IL",1,41.68100146,-87.53793122,719,Avenue O & 118th St,86HJMFJ6%2BCR,Deficit,15,60617
+16.7,"E 126th Pl & S Torrence Ave, Chicago, IL",10,41.66631201,-87.55721569,720,Torrence Ave & 126th Pl,86HJMC8V%2BG4,Excess,15,60633
+13.6,"W 100th St & S Walden Pkwy, Chicago, IL",10,41.7121641,-87.66773343,721,Walden Pkwy & 100th St,86HJP86J%2BVW,Excess,15,60643
+17.7,"E 130th St & S Commercial Ave, Chicago, IL",12,41.65915043,-87.5507623,722,Commercial Ave & 130th St,86HJMC5X%2BMM,Excess,15,60633
+14.3,"W 107th St & S Hale Ave, Chicago, IL",1,41.69920617,-87.66891897,723,Hale Ave & 107th St,86HJM8XJ%2BMC,Deficit,11,60643
+15.1,"W 115th St & S Homewood Ave, Chicago, IL",1,41.68459507,-87.670708,724,Homewood Ave & 115th St,86HJM8MH%2BRP,Deficit,15,60643
+12.8,"W 104th St & S Halsted St, Chicago, IL",2,41.70513979,-87.64242411,725,Halsted St & 104th St,86HJP945%2B32,Deficit,15,60628
+13.4,"S Vincennes Ave & W 104th St, Chicago, IL",7,41.70492557,-87.65686811,726,Vincennes Ave & 104th St,86HJP83V%2BX7,Sufficient Quantity,15,60643
+14.8,"W 113th Pl & S Ada St, Chicago, IL",12,41.68756162,-87.65547574,727,Ada St & 113th St,86HJM8QV%2B2R,Excess,15,60643
+15.4,"Western Ave & W 111th St, Chicago, IL",6,41.69121104,-87.68129736,728,Western Ave & 111th St,86HJM8R9%2BFF,Deficit,23,60655
+17,"S Lawndale Ave & W 111th St, Chicago, IL",13,41.69131919,-87.71288574,730,Lawndale Ave & 111th St,86HJM7RP%2BGR,Excess,15,60655
+13.3,"Bradley (Josephine) Park, 9729 S Yates Blvd, Chicago, IL",5,41.7178783,-87.56459177,731,Bradley Park,86HJPC9P%2B55,Sufficient Quantity,11,60617
+18.4,"Hegewisch Metra/South Shore Metropolitan Rail, 13730 S Brainard Ave, Chicago, IL",1,41.64850076,-87.54608989,732,Hegewisch Metra Station,86HJJFX3%2BCH,Deficit,15,60633
+13.3,"S Commercial Ave & E 100th St, Chicago, IL",6,41.7133174,-87.55109757,734,Commercial Ave & 100th St,86HJPC7X%2B8H,Deficit,15,60617
+12.2,"W 104th St & S Western Ave, Chicago, IL",7,41.7045871,-87.68120349,735,Western Ave & 104th St,86HJP839%2BRG,Sufficient Quantity,15,60643
+16.5,"S Kedzie Ave & W 110th St, Chicago, IL",7,41.69239475,-87.70096064,736,Kedzie Ave & 110th St,86HJM7RX%2BXJ,Excess,11,60655
+11.7,"Chicago State University, Chicago, IL",23,41.71896342,-87.60829568,737,Chicago State University,86HJP99R%2BHM,Excess,23,60628
+16.3,"Calumet Park, Chicago, IL",3,41.71370983,-87.53084421,738,Calumet Park,86HJPF79%2BFM,Deficit,15,60827
+17.9,"Altgeld Gardens, Chicago, IL",1,41.65666553,-87.59880066,739,Altgeld Gardens,86HJMC42%2BMF,Deficit,15,60827
+11.8,"S Loomis St & W 89th St, Chicago, IL",0,41.73237975,-87.65806943,740,Loomis St & 89th St,86HJP8JR%2BXQ,Deficit,15,60620
+12.8,"S Yates Blvd & E 93rd St, Chicago, IL",0,41.72616639,-87.56627619,741,Yates Blvd & 93rd St,86HJPCGM%2BFF,Deficit,15,60617
+15.4,"E 111th St & S Doty Ave, Chicago, IL",9,41.69501045,-87.59871483,742,Doty Ave & 111th St,86HJMCW2%2B2G,Excess,15,60628
+14.8,"Olive-Harvey College, 10001 S Woodlawn Ave, Chicago, IL",3,41.70958114,-87.59023368,748,Olive Harvey College,86HJPC55%2BRW,Deficit,15,60628
+15.4,"Burnham Greenway Trail System - Red Paved Trl & 112th St, Chicago, IL",1,41.69177385,-87.53043115,749,Burnham Greenway & 112th St,86HJMFR9%2BPR,Deficit,15,60617
+2.5,"N State St, Chicago, IL",1,41.8966172,-87.62857854,753,State St & Chicago Ave,86HJV9WC%2BJH,Deficit,15,60601
+6.1,"N Lincoln Ave & W Roscoe St, Chicago, IL",6,41.94335025,-87.67066777,758,Lincoln Ave & Roscoe St*,86HJW8VH%2B8P,Deficit,16,60657
+5,"W Diversey Pkwy & N Wilton Ave, Chicago, IL",16,41.932418,-87.652705,759,Wilton Ave & Diversey Pkwy*,86HJW8JW%2BXW,Sufficient Quantity,32,60614
+10.6,"Lakefront Trail - North Trailhead - Ardmore Ave - 5800 N, 900 W Ardmore Ave, Chicago, IL",4,41.98404412,-87.65228123,760,Lakefront Trail & Bryn Mawr Ave,86HJX8MX%2BJ3,Deficit,19,60660
+4,"N Bissell St & W Armitage Ave, Chicago, IL",7,41.91829556,-87.65218332,761,Bissell St & Armitage Ave*,86HJW89X%2B84,Sufficient Quantity,16,60614
+1.4,"N Green St & W Randolph St, Chicago, IL",11,41.88360166,-87.64862672,762,Green St & Randolph St*,86HJV9M2%2BCG,Excess,12,60607
+1.6,"N Morgan St & W Lake St, Chicago, IL",6,41.88549171,-87.65228927,763,Morgan St & Lake St*,86HJV8PX%2B53,Deficit,20,60607
